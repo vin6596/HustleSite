@@ -1,7 +1,298 @@
 {
-  "generated_at": null,
-  "hackathons": [],
+  "generated_at": "2026-08-07T10:11:26.584678+00:00",
+  "hackathons": [
+    {
+      "title": "Build with Gemini XPRIZE",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Education Productivity",
+      "url": "https://xprize.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "RevenueCat Shipaton 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design Gaming Mobile",
+      "url": "https://revenuecat-shipaton-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Cinema: The Blockbuster Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Databases Machine Learning/AI Open Ended",
+      "url": "https://agentic-cinema.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Databases DevOps",
+      "url": "https://cockroachdb-ai.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Build with DataHub: The Agent Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI DevOps Open Ended",
+      "url": "https://datahub.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Arm Create: AI Optimization Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication Enterprise Machine Learning/AI",
+      "url": "https://call-e.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Africa Deep Tech Challenge 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Productivity",
+      "url": "https://adtc-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
+      "url": "https://youcam-api.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Browse Nigeria & Africa hackathons",
+      "org": "Techpoint Build",
+      "location": "Nigeria",
+      "type": "Live listing",
+      "tag": "Hackathon",
+      "url": "https://techpoint.africa/build/",
+      "source": "Techpoint Build"
+    },
+    {
+      "title": "Web3Bridge cohorts & hackathons",
+      "org": "Web3Bridge",
+      "location": "Nigeria",
+      "type": "Web3",
+      "tag": "Bounty/Web3",
+      "url": "https://web3bridge.com/",
+      "source": "Web3Bridge"
+    },
+    {
+      "title": "Browse hackathons, bounties & grants",
+      "org": "DoraHacks",
+      "location": "Global",
+      "type": "Web3",
+      "tag": "Bounty/Web3",
+      "url": "https://dorahacks.io/hackathon",
+      "source": "DoraHacks"
+    },
+    {
+      "title": "Browse open bounties",
+      "org": "Gitcoin",
+      "location": "Global",
+      "type": "Web3",
+      "tag": "Bounty/Web3",
+      "url": "https://gitcoin.co/bounties",
+      "source": "Gitcoin"
+    },
+    {
+      "title": "Browse active quests & campaigns",
+      "org": "Galxe",
+      "location": "Global",
+      "type": "Web3",
+      "tag": "Bounty/Web3",
+      "url": "https://www.galxe.com/discover",
+      "source": "Galxe"
+    },
+    {
+      "title": "Browse active quests",
+      "org": "Layer3",
+      "location": "Global",
+      "type": "Web3",
+      "tag": "Bounty/Web3",
+      "url": "https://layer3.xyz/quests",
+      "source": "Layer3"
+    },
+    {
+      "title": "Browse hackathons (Africa-friendly)",
+      "org": "Unstop",
+      "location": "Global + Africa",
+      "type": "Live listing",
+      "tag": "Hackathon",
+      "url": "https://unstop.com/hackathons",
+      "source": "Unstop"
+    }
+  ],
   "internships": [],
-  "jobs": [],
-  "scholarships": []
+  "jobs": [
+    {
+      "title": "Search: Electrical / Automation / Oil & Gas roles in Nigeria",
+      "org": "Jobberman Nigeria",
+      "location": "Nigeria",
+      "type": "Search link (not a live listing)",
+      "url": "https://www.jobberman.com/jobs?q=electrical+engineer+OR+automation+OR+instrumentation+OR+oil+and+gas",
+      "tag": "Job",
+      "source": "Jobberman"
+    }
+  ],
+  "scholarships": [
+    {
+      "title": "MIT School Access and Quality Fellowship 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/06/mit-school-access-and-quality-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Commonwealth Fellowship Programme 2026/2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/06/commonwealth-fellowship-programme-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "How I Won a Fully Funded Study Abroad Scholarship and How You Can Too",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://opportunitydesk.org/2026/08/06/how-i-won-a-fully-funded-study-abroad-scholarship-and-how-you-can-too/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "17 International Travel, Speaking, Fellowship and Other Opportunities Currently Open \u2013 August 5, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/05/17-international-travel-speaking-fellowship-other-opportunities-currently-open-august-5-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "World Congress of Science & Factual Producers\u00a0(WCSFP) Global Career Accelerator 2026 for emerging mediia practitioner (Fully Funded to Tallinn, Estonia)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/world-congress-of-science-factual-producers-wcsfp-global-career-accelerator-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Commonwealth Fellowship Programme 2026/2027 for mid-career professionals and academics (Fully Funded Study in the United Kingdom)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/commonwealth-fellowship-programme-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Sasol Foundation Bursary Programme 2027 for Young South Africans (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/sasol-foundation-bursary-programme-2027-for-young-south-africans/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Chevening UK Government Scholarships Programme 2027/2028 for Study in the United Kingdom (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/chevening-uk-government-scholarships-programme-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "2026/2027 Skoll MBA Scholarship in Social Entrepreneurship at the University of oxford\u2019s Sa\u00efd Business School (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/2026-2027-skoll-mba-scholarship-in-social-entrepreneurship-at-the-university-of-oxfords-said-business-school/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Internet Corporation for Assigned Names and Numbers (ICANN88) Fellowship Program 2026 (Fully Funded to Lisbon, Portugal)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann88-fellowship-program-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Chevening Scholarships (UK, fully funded)",
+      "org": "Chevening",
+      "location": "UK",
+      "type": "Fully-funded",
+      "tag": "Scholarship",
+      "url": "https://www.chevening.org/scholarships/",
+      "source": "Chevening"
+    },
+    {
+      "title": "DAAD Scholarships (Germany, engineering-friendly)",
+      "org": "DAAD",
+      "location": "Germany",
+      "type": "Fully-funded",
+      "tag": "Scholarship",
+      "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+      "source": "DAAD"
+    },
+    {
+      "title": "Commonwealth Scholarships (UK)",
+      "org": "Commonwealth Scholarship Commission",
+      "location": "UK",
+      "type": "Fully-funded",
+      "tag": "Scholarship",
+      "url": "https://cscuk.fcdo.gov.uk/scholarships/",
+      "source": "Commonwealth"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program",
+      "org": "Mastercard Foundation",
+      "location": "Multiple",
+      "type": "Fully-funded",
+      "tag": "Scholarship",
+      "url": "https://mastercardfdn.org/all/scholars/",
+      "source": "Mastercard Foundation"
+    },
+    {
+      "title": "Fulbright Foreign Student Program (USA)",
+      "org": "Fulbright",
+      "location": "USA",
+      "type": "Fully-funded",
+      "tag": "Scholarship",
+      "url": "https://foreign.fulbrightonline.org/",
+      "source": "Fulbright"
+    }
+  ]
 }
