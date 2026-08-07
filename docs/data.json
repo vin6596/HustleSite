@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:11:26.584678+00:00",
+  "generated_at": "2026-08-07T18:41:46.488046+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "New America Future of Work Reporting Fellowship 2026 ($5,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/07/new-america-future-of-work-reporting-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "MIT School Access and Quality Fellowship 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,31 +178,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Commonwealth Fellowship Programme 2026/2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/06/commonwealth-fellowship-programme-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "How I Won a Fully Funded Study Abroad Scholarship and How You Can Too",
-      "org": "Opportunity Desk",
+      "title": "Acad\u00e9mie de recherche et d\u2019enseignement sup\u00e9rieur (ARES)  International Training Scholarships 2027/2028 for Study in Belgium (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://opportunitydesk.org/2026/08/06/how-i-won-a-fully-funded-study-abroad-scholarship-and-how-you-can-too/",
+      "url": "https://www.opportunitiesforafricans.com/academie-de-recherche-et-denseignement-superieur-ares-international-training-scholarships-2027-2028/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "17 International Travel, Speaking, Fellowship and Other Opportunities Currently Open \u2013 August 5, 2026",
-      "org": "Opportunity Desk",
+      "title": "The Institut fran\u00e7ais x Cit\u00e9 internationale des arts residency program 2027 for Artists \u00a0and cultural professionals\u00a0worldwide  (Fully Funded to France).",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/05/17-international-travel-speaking-fellowship-other-opportunities-currently-open-august-5-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-institut-francais-x-cite-internationale-des-arts-residency-program-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "World Congress of Science & Factual Producers\u00a0(WCSFP) Global Career Accelerator 2026 for emerging mediia practitioner (Fully Funded to Tallinn, Estonia)",
@@ -219,33 +219,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/sasol-foundation-bursary-programme-2027-for-young-south-africans/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Chevening UK Government Scholarships Programme 2027/2028 for Study in the United Kingdom (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/chevening-uk-government-scholarships-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "2026/2027 Skoll MBA Scholarship in Social Entrepreneurship at the University of oxford\u2019s Sa\u00efd Business School (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/2026-2027-skoll-mba-scholarship-in-social-entrepreneurship-at-the-university-of-oxfords-said-business-school/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Internet Corporation for Assigned Names and Numbers (ICANN88) Fellowship Program 2026 (Fully Funded to Lisbon, Portugal)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann88-fellowship-program-2026/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
