@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:14:19.054908+00:00",
+  "generated_at": "2026-08-10T18:43:56.623017+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
+      "title": "All Things Agentic Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Enterprise Machine Learning/AI Productivity",
+      "url": "https://allthingsagentichackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Africa Deep Tech Challenge 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Productivity",
       "url": "https://adtc-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
-      "url": "https://youcam-api.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,13 +160,49 @@
   ],
   "scholarships": [
     {
-      "title": "New America Future of Work Reporting Fellowship 2026 ($5,000 stipend)",
+      "title": "ARI-NUS Postdoctoral/Research Fellowship Programme 2026 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/07/new-america-future-of-work-reporting-fellowship-2026/",
+      "url": "https://opportunitydesk.org/2026/08/10/ari-nus-postdoctoral-research-fellowship-programme-2026-funded/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "AKO UAL Storytelling Research Fellowship 2026/2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/10/ako-ual-storytelling-research-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Startup Abuja Scholarship Program 2026 (Up to N50 million in funding)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/10/startup-abuja-scholarship-program-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Mastercard Foundation AfOx Scholarship Programme 2027/2028 for young Africans ( Funded MBA study at the University of Oxford, United Kingdom)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-mastercard-foundation-afox-scholarship-programme-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Africa Factchecking Fellowship Cameroon 2026 for young Cameroonians.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-africa-factchecking-fellowship-cameroon-2026-for-young-cameroonians/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Acad\u00e9mie de recherche et d\u2019enseignement sup\u00e9rieur (ARES)  International Training Scholarships 2027/2028 for Study in Belgium (Fully Funded)",
@@ -174,42 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/academie-de-recherche-et-denseignement-superieur-ares-international-training-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Institut fran\u00e7ais x Cit\u00e9 internationale des arts residency program 2027 for Artists \u00a0and cultural professionals\u00a0worldwide  (Fully Funded to France).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-institut-francais-x-cite-internationale-des-arts-residency-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "World Congress of Science & Factual Producers\u00a0(WCSFP) Global Career Accelerator 2026 for emerging mediia practitioner (Fully Funded to Tallinn, Estonia)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/world-congress-of-science-factual-producers-wcsfp-global-career-accelerator-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Commonwealth Fellowship Programme 2026/2027 for mid-career professionals and academics (Fully Funded Study in the United Kingdom)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/commonwealth-fellowship-programme-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Sasol Foundation Bursary Programme 2027 for Young South Africans (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/sasol-foundation-bursary-programme-2027-for-young-south-africans/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
