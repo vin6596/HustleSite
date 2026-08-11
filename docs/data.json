@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:43:56.623017+00:00",
+  "generated_at": "2026-08-11T06:52:15.688873+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Build with DataHub: The Agent Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI DevOps Open Ended",
-      "url": "https://datahub.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Arm Create: AI Optimization Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://arm-ai-optimization-challenge.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "All Things Agentic Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Enterprise Machine Learning/AI Productivity",
+      "url": "https://allthingsagentichackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -65,11 +65,11 @@
       "source": "Devpost"
     },
     {
-      "title": "All Things Agentic Hackathon",
+      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
       "org": "Devpost",
       "location": "Online",
-      "type": "Enterprise Machine Learning/AI Productivity",
-      "url": "https://allthingsagentichackathon.devpost.com/",
+      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
+      "url": "https://youcam-api.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,29 +160,47 @@
   ],
   "scholarships": [
     {
+      "title": "Global Institute Fellowship for Transforming Systems 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/11/global-institute-fellowship-for-transforming-systems-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Africa Factchecking Fellowship Cameroon 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/11/africa-factchecking-fellowship-cameroon-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Mastercard Foundation AfOx Graduate Scholarships 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/11/mastercard-foundation-afox-graduate-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "75 Scholarships, Grants, Fellowships, Travel Abroad and Other Opportunities with Deadlines in August 2026 \u2013 August 10, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/10/75-scholarships-grants-fellowships-travel-abroad-other-opportunities-with-deadlines-in-august-2026-august-10-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "ARI-NUS Postdoctoral/Research Fellowship Programme 2026 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/08/10/ari-nus-postdoctoral-research-fellowship-programme-2026-funded/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "AKO UAL Storytelling Research Fellowship 2026/2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/10/ako-ual-storytelling-research-fellowship-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Startup Abuja Scholarship Program 2026 (Up to N50 million in funding)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/10/startup-abuja-scholarship-program-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
