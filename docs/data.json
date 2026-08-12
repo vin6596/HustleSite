@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:10:41.148013+00:00",
+  "generated_at": "2026-08-12T18:50:46.589746+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -160,31 +160,40 @@
   ],
   "scholarships": [
     {
-      "title": "Global Institute Fellowship for Transforming Systems 2026",
+      "title": "In Tandem Youth Voice Fellowship 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/11/global-institute-fellowship-for-transforming-systems-2026/",
+      "url": "https://opportunitydesk.org/2026/08/12/in-tandem-youth-voice-fellowship-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Africa Factchecking Fellowship Cameroon 2026",
-      "org": "Opportunity Desk",
+      "title": "The African Development Bank (AfDB) Japan Africa Dream Scholarship (JADS) Program 2026/2027 for young Africans to study in Japan (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/11/africa-factchecking-fellowship-cameroon-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-african-development-bank-afdb-japan-africa-dream-scholarship-jads-program-2026-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Mastercard Foundation AfOx Graduate Scholarships 2027-2028",
-      "org": "Opportunity Desk",
+      "title": "Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South Africa (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/11/mastercard-foundation-afox-graduate-scholarships-2027-2028/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "National Bursary for Job-Generating Entrepreneurs (Fully Funded to attend the 2026 One Young World Summit in Cape-Town, South Africa).",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/national-bursary-for-job-generating-entrepreneurs/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "2026 Seyi Bickersteth Scholarship Programme for Nigerian Undergraduate Students.",
@@ -201,24 +210,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-global-mental-health-africa-conference-2027-gmhac2027-event-scholarships/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Mastercard Foundation AfOx Scholarship Programme 2027/2028 for young Africans ( Funded MBA study at the University of Oxford, United Kingdom)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-mastercard-foundation-afox-scholarship-programme-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Africa Factchecking Fellowship Cameroon 2026 for young Cameroonians.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-africa-factchecking-fellowship-cameroon-2026-for-young-cameroonians/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
