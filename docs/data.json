@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:14:39.396814+00:00",
+  "generated_at": "2026-08-13T18:52:07.451803+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication Enterprise Machine Learning/AI",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Agents for Humans Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication Enterprise Machine Learning/AI",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Kleinhans Fellowship for Community Forestry Research 2027 (up to $20,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/13/kleinhans-fellowship-for-community-forestry-research-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Diane Nash Fall Outreach Fellowship\u00a02026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/13/diane-nash-fall-outreach-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "In Tandem Youth Voice Fellowship 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -183,33 +201,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "National Bursary for Job-Generating Entrepreneurs (Fully Funded to attend the 2026 One Young World Summit in Cape-Town, South Africa).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/national-bursary-for-job-generating-entrepreneurs/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "2026 Seyi Bickersteth Scholarship Programme for Nigerian Undergraduate Students.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/2026-seyi-bickersteth-scholarship-programme-for-nigerian-undergraduate-students/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Global Mental Health Africa Conference 2027 (GMHAC2027) Event Scholarships for African Mental Health Researchers and Advocates.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-global-mental-health-africa-conference-2027-gmhac2027-event-scholarships/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
