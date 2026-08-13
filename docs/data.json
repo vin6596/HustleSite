@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:50:46.589746+00:00",
+  "generated_at": "2026-08-13T07:14:39.396814+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
-      "url": "https://youcam-api.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Agents for Humans Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
+      "url": "https://youcam-api.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
