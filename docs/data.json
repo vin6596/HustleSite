@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:11:36.720126+00:00",
+  "generated_at": "2026-08-14T18:41:58.284943+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -29,15 +29,6 @@
       "source": "Devpost"
     },
     {
-      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Databases DevOps",
-      "url": "https://cockroachdb-ai.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "All Things Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -47,11 +38,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Arm Create: AI Optimization Challenge",
+      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
       "org": "Devpost",
       "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://arm-ai-optimization-challenge.devpost.com/",
+      "type": "Machine Learning/AI Databases DevOps",
+      "url": "https://cockroachdb-ai.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -61,6 +52,15 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Arm Create: AI Optimization Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI",
+      "url": "https://arm-ai-optimization-challenge.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,31 +160,31 @@
   ],
   "scholarships": [
     {
-      "title": "Kleinhans Fellowship for Community Forestry Research 2027 (up to $20,000)",
+      "title": "Jesus College Cambridge Arts Research Fellowship 2026 (Paid)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/13/kleinhans-fellowship-for-community-forestry-research-2027/",
+      "url": "https://opportunitydesk.org/2026/08/14/jesus-college-cambridge-arts-research-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Diane Nash Fall Outreach Fellowship\u00a02026",
-      "org": "Opportunity Desk",
+      "title": "The Union for the Mediterranean (UfM) Youth Lab 2026 for young university students and recent graduates (Fully Funded to Palermo, Italy)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/13/diane-nash-fall-outreach-fellowship-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-union-for-the-mediterranean-ufm-youth-lab-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "In Tandem Youth Voice Fellowship 2026-2027",
-      "org": "Opportunity Desk",
+      "title": "The World Bank 2026 GovTech AI Bootcamp for Governance and Public Administration (Fully Funded to Seoul, South Korea)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/12/in-tandem-youth-voice-fellowship-2026-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-world-bank-2026-govtech-ai-bootcamp-for-governance-and-public-administration/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "WomenLift Health 2027 East Africa Signature Leadership Journey Program for mid to senior\u00a0career women\u00a0(Fully Funded)",
@@ -210,24 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/womenlift-health-2027-southern-africa-signature-leadership-journey/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The African Development Bank (AfDB) Japan Africa Dream Scholarship (JADS) Program 2026/2027 for young Africans to study in Japan (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-african-development-bank-afdb-japan-africa-dream-scholarship-jads-program-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Brand South Africa | Play Your Part Bursary to attend the 2026 One Young World Summit in Cape Town, South Africa (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/brand-south-africa-play-your-part-bursary/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
