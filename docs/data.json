@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:16:14.691184+00:00",
+  "generated_at": "2026-08-17T06:38:18.509373+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Databases DevOps",
-      "url": "https://cockroachdb-ai.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Agents for Humans Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://agentsforhumans.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Databases DevOps",
+      "url": "https://cockroachdb-ai.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -194,6 +194,15 @@
       "url": "https://opportunitydesk.org/2026/08/14/jesus-college-cambridge-arts-research-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "AAUW\u2019s International Fellowship Program 2026/2027 for Masters, Doctoral & Post-Doctoral Study in the United States (Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/aauws-international-fellowship-program-2026-2027-for-masters-doctoral-post-doctoral-study-in-the-united-states/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Union for the Mediterranean (UfM) Youth Lab 2026 for young university students and recent graduates (Fully Funded to Palermo, Italy)",
