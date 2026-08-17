@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:38:18.509373+00:00",
+  "generated_at": "2026-08-17T18:25:17.264763+00:00",
   "hackathons": [
     {
       "title": "Build with Gemini XPRIZE",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI AR/VR E-commerce/Retail",
-      "url": "https://youcam-api.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Africa Deep Tech Challenge 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Productivity",
       "url": "https://adtc-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Reverie Hacks 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://reverie-hacks-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,40 +160,67 @@
   ],
   "scholarships": [
     {
-      "title": "Endeavour Women in Tech Scholarship 2026 (up to $10,000)",
+      "title": "Creative Catalyst Fellowship 2027 (up to $30,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/15/endeavour-women-in-tech-scholarship-2026/",
+      "url": "https://opportunitydesk.org/2026/08/17/creative-catalyst-fellowship-2027-up-to-30000/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "U.S. Department of the Treasury International Affairs Junior Fellowship 2027-2029",
+      "title": "Matthew Cohan Criminal Justice & Public Service Scholarship 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/15/us-dept-of-the-treasury-international-affairs-junior-fellowship-2027-2029/",
+      "url": "https://opportunitydesk.org/2026/08/17/matthew-cohan-criminal-justice-public-service-scholarship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Caribbean Climate Leaders Fellowship 2026 (Fully-funded)",
+      "title": "Jesus College Cambridge Science Research Fellowship 2026 (Paid)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/15/caribbean-climate-leaders-fellowship-2026/",
+      "url": "https://opportunitydesk.org/2026/08/17/jesus-college-cambridge-science-research-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Jesus College Cambridge Arts Research Fellowship 2026 (Paid)",
+      "title": "University of Melbourne\u00a0Visiting Fellowship 2027 (up to $AUD6,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/14/jesus-college-cambridge-arts-research-fellowship-2026/",
+      "url": "https://opportunitydesk.org/2026/08/17/university-of-melbourne-visiting-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "Etica ESG Fellowship Vibers Cohort 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/17/etica-esg-fellowship-vibers-cohort-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Africa Fellowship for Young Energy Leaders (AFYEL) \u2013 Cohort 6",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/17/africa-fellowship-for-young-energy-leaders-cohort-6/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Emerging Leaders Foundation (ELF) Africa iLead Fellowship Program 2026 for young East Africans.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-emerging-leaders-foundation-elf-africa-ilead-fellowship-program-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "AAUW\u2019s International Fellowship Program 2026/2027 for Masters, Doctoral & Post-Doctoral Study in the United States (Funded)",
@@ -237,15 +264,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/womenlift-health-2027-nigeria-signature-leadership-journey-program/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "WomenLift Health 2027 Southern Africa Signature Leadership Journey for emerging women leaders. (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/womenlift-health-2027-southern-africa-signature-leadership-journey/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
