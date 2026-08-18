@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-08-17T18:25:17.264763+00:00",
+  "generated_at": "2026-08-18T06:27:51.530620+00:00",
   "hackathons": [
-    {
-      "title": "Build with Gemini XPRIZE",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Education Productivity",
-      "url": "https://xprize.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
     {
       "title": "RevenueCat Shipaton 2026",
       "org": "Devpost",
@@ -38,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Agents for Humans Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://agentsforhumans.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Databases DevOps",
       "url": "https://cockroachdb-ai.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agents for Humans Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://agentsforhumans.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://reverie-hacks-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "VoltHacks",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Beginner Friendly",
+      "url": "https://volthacks.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
