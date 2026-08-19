@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:24:35.250961+00:00",
+  "generated_at": "2026-08-19T06:28:28.391463+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "Enterprise Machine Learning/AI Productivity",
       "url": "https://allthingsagentichackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "CockroachDB \u00d7 AWS Hackathon - Build with Agentic Memory",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Databases DevOps",
-      "url": "https://cockroachdb-ai.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "IoT Machine Learning/AI Beginner Friendly",
       "url": "https://volthacks.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "3D Websites Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design Web Beginner Friendly",
+      "url": "https://3d-websites-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
