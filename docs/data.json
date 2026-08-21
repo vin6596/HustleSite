@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:31:40.310939+00:00",
+  "generated_at": "2026-08-21T18:24:20.293433+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Africa Deep Tech Challenge 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Productivity",
-      "url": "https://adtc-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Reverie Hacks 2026",
       "org": "Devpost",
       "location": "Online",
@@ -70,6 +61,15 @@
       "location": "Online",
       "type": "Machine Learning/AI Open Ended Beginner Friendly",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Africa Deep Tech Challenge 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Productivity",
+      "url": "https://adtc-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,20 +160,20 @@
   ],
   "scholarships": [
     {
-      "title": "AU Enterprise Africa Network (EAN) Fellowship Programme 2026/2027 [Cohort 2]",
+      "title": "Inter-University Council for East Africa (IUCEA)\u00a0Scholarship 2027-2028",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/20/au-enterprise-africa-network-fellowship-2026-2027/",
+      "url": "https://opportunitydesk.org/2026/08/21/iucea-scholarship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Mohamed Ali Foundation Fellowship Programme 2027",
+      "title": "Policy Advocacy and Leadership (PAL) Fellowship 2026 [Cohort 3]",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/20/mohamed-ali-foundation-fellowship-programme-2027/",
+      "url": "https://opportunitydesk.org/2026/08/21/policy-advocacy-and-leadership-fellowship-2026-cohort-3/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
