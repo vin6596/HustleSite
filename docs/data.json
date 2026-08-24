@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:38:52.559515+00:00",
+  "generated_at": "2026-08-24T18:27:15.369860+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,38 +160,47 @@
   ],
   "scholarships": [
     {
+      "title": "Max Planck Institute for Social Anthropology Dissertation Writing-up Fellowships 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/24/max-planck-institute-for-social-anthropology-dissertation-writing-up-fellowships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Zukunftskolleg\u00a0Postdoctoral Fellowships 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/24/zukunftskolleg-postdoctoral-fellowships-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Global Mental Health Africa Conference (GMHAC) Scholarship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/24/global-mental-health-africa-conference-scholarship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Leading Change Fellowship 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/24/leading-change-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Lester B. Pearson International Student Scholarships 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/08/22/lester-b-pearson-international-student-scholarships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "PNNL Linus Pauling Distinguished Postdoctoral Fellowship 2027 (up to USD $118,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/22/pnnl-linus-pauling-distinguished-postdoctoral-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Inter-University Council for East Africa (IUCEA)\u00a0Scholarship 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/21/iucea-scholarship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Policy Advocacy and Leadership (PAL) Fellowship 2026 [Cohort 3]",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/21/policy-advocacy-and-leadership-fellowship-2026-cohort-3/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
