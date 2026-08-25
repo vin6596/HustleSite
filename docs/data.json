@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:31:13.136703+00:00",
+  "generated_at": "2026-08-25T18:26:22.665536+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Agentic Cinema: The Blockbuster Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Databases Machine Learning/AI Open Ended",
-      "url": "https://agentic-cinema.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "All Things Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Enterprise Machine Learning/AI Productivity",
       "url": "https://allthingsagentichackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Agentic Cinema: The Blockbuster Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Databases Machine Learning/AI Open Ended",
+      "url": "https://agentic-cinema.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Africa Deep Tech Challenge 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Productivity",
-      "url": "https://adtc-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "VoltHacks",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Design Web Beginner Friendly",
       "url": "https://3d-websites-hackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Health Machine Learning/AI",
+      "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "AgenTrust Fellowship to Advance Open Standards for Verifiable AI Agents 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/25/agentrust-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Center for Applied Artificial Intelligence (CAAI) Second Year AI Fellowship 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/25/caai-second-year-ai-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Max Planck Institute for Social Anthropology Dissertation Writing-up Fellowships 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,65 +187,20 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Zukunftskolleg\u00a0Postdoctoral Fellowships 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/24/zukunftskolleg-postdoctoral-fellowships-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Global Mental Health Africa Conference (GMHAC) Scholarship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/24/global-mental-health-africa-conference-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Leading Change Fellowship 2026-2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/24/leading-change-fellowship-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Lester B. Pearson International Student Scholarships 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/22/lester-b-pearson-international-student-scholarships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "University of Edinburgh Mastercard Foundation Scholars Program 2027/2028 for young Africans (Fully Funded)",
+      "title": "United Nations (UN) Youth Townhall 2026 for young people worldwide (Fully Funded to Heidelberg, Germany)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-scholars-program-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/united-nations-un-youth-townhall-2026-for-young-people-worldwide/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "KfW EAC Master\u2019s Scholarships 2026/2027 for young East Africans  ( Fully Funded)",
+      "title": "The University of Cape Town MasterCard Foundation Scholars Program 2027 for study in South Africa (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/kfw-eac-masters-scholarships-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Swiss Government Excellence Scholarships 2027/2028 for Foreign Students & Artists to study in Switzerland (Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/swiss-government-excellence-scholarships-2027-2028-for-foreign-students-artists/",
+      "url": "https://www.opportunitiesforafricans.com/the-university-of-cape-town-mastercard-foundation-scholars-program-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
