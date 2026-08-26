@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:26:22.665536+00:00",
+  "generated_at": "2026-08-26T06:32:52.419188+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
+      "title": "The WebMCP Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI E-commerce/Retail Web",
+      "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "3D Websites Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Design Web Beginner Friendly",
       "url": "https://3d-websites-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Health Machine Learning/AI",
-      "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
