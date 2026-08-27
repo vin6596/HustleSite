@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:39:27.964451+00:00",
+  "generated_at": "2026-08-27T17:09:08.423312+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication Enterprise Machine Learning/AI",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "The WebMCP Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI E-commerce/Retail Web",
       "url": "https://webmcp.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication Enterprise Machine Learning/AI",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,38 +160,29 @@
   ],
   "scholarships": [
     {
-      "title": "50 Fellowships, Conferences and Travel Opportunities Currently Open  \u2013 August 26, 2026",
+      "title": "Investigative Reporters and Editors (IRE) Freelance Fellowship 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/26/50-fellowships-conferences-and-travel-opportunities-currently-open-august-26-2026/",
+      "url": "https://opportunitydesk.org/2026/08/27/ire-freelance-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "AgenTrust Fellowship to Advance Open Standards for Verifiable AI Agents 2026",
+      "title": "Anita Hill Scholarship 2026 (up to $10,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/25/agentrust-fellowship-2026/",
+      "url": "https://opportunitydesk.org/2026/08/27/anita-hill-scholarship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Center for Applied Artificial Intelligence (CAAI) Second Year AI Fellowship 2026-2027",
+      "title": "Jobberman Monitoring, Evaluation, Research and Learning (MERL) Fellowship 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/25/caai-second-year-ai-fellowship-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Max Planck Institute for Social Anthropology Dissertation Writing-up Fellowships 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/24/max-planck-institute-for-social-anthropology-dissertation-writing-up-fellowships-2027/",
+      "url": "https://opportunitydesk.org/2026/08/26/jobberman-merl-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
