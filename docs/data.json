@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:56:04.706550+00:00",
+  "generated_at": "2026-08-29T01:22:29.485559+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Tech Policy Press Fellowship Program 2027 ($10,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/28/tech-policy-press-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Defra Research and Development Fellowship Programme\u00a02026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/28/defra-research-and-development-fellowship-programme-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "George Washington Presidential Library\u00a0Research Fellowships 2027-2028",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -203,6 +221,15 @@
       "url": "https://opportunitydesk.org/2026/08/28/aijc-fellowship-2026-for-french-speaking-journalists/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Cybersafe x SANS AI Security Fellowship 2026 for African women in cybersecurity (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-cybersafe-x-sans-ai-security-fellowship-2026-for-african-women-in-cybersecurity/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "World Conference of Science Journalists (WCSJ) 2027 Travel Fellowship for Journalists (Fully Funded to London, United Kingdom)",
