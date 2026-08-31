@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:14:58.791533+00:00",
+  "generated_at": "2026-08-31T22:13:22.090597+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "TikTok TechJam 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Cybersecurity E-commerce/Retail",
-      "url": "https://tiktoktechjam2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "CALL-E: Your Code Is Calling",
       "org": "Devpost",
       "location": "Online",
@@ -65,20 +56,29 @@
       "source": "Devpost"
     },
     {
+      "title": "TikTok TechJam 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Cybersecurity E-commerce/Retail",
+      "url": "https://tiktoktechjam2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Nebius x NVIDIA Global AI Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Beginner Friendly Robotic Process Automation",
+      "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AI Builders Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Open Ended Beginner Friendly",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "VoltHacks",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT Machine Learning/AI Beginner Friendly",
-      "url": "https://volthacks.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,51 @@
   ],
   "scholarships": [
     {
+      "title": "CRCD D.C. Fellowship for Civic Renewal 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/31/crcd-dc-fellowship-for-civic-renewal-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Mercor Research Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/31/mercor-research-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Institute for Law & AI Summer Fellowship\u00a02027 (Stipend available)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/31/institute-for-law-ai-summer-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Wallace Fellowships\u00a02027-2028 at Harvard University (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/31/wallace-fellowships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Heilbronn AI Fellowship\u00a02027 for International Postdoctoral Researchers",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/08/31/heilbronn-ai-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Bloomberg Data Science Ph.D. Fellowship 2027-2028 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,38 +214,29 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Tech Policy Press Fellowship Program 2027 ($10,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/28/tech-policy-press-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Defra Research and Development Fellowship Programme\u00a02026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/28/defra-research-and-development-fellowship-programme-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "George Washington Presidential Library\u00a0Research Fellowships 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/28/george-washington-presidential-library-research-fellowships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
       "title": "The University of British Columbia Mastercard Foundation Scholars Program 2027/2028 for study in Canada (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/university-of-british-columbia-mastercard-foundation-scholars-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The University of Toronto Mastercard Foundation Doctor of Public Health Scholarships 2027/2028 for Africa public health leaders (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-university-of-toronto-mastercard-foundation-doctor-of-public-health-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "University of Michigan African Presidential Scholars Program (UMAPS) 2027 for Study in the United States (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/university-of-michigan-african-presidential-scholars-program-umaps-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
@@ -237,15 +273,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-african-investigative-journalism-conference-aijc-fellowships-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "United Nations (UN) Youth Townhall 2026 for young people worldwide (Fully Funded to Heidelberg, Germany)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/united-nations-un-youth-townhall-2026-for-young-people-worldwide/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
