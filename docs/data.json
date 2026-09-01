@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:13:22.090597+00:00",
+  "generated_at": "2026-09-01T10:50:50.652425+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Design Gaming Mobile",
       "url": "https://revenuecat-shipaton-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "All Things Agentic Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Enterprise Machine Learning/AI Productivity",
-      "url": "https://allthingsagentichackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -56,15 +47,6 @@
       "source": "Devpost"
     },
     {
-      "title": "TikTok TechJam 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Cybersecurity E-commerce/Retail",
-      "url": "https://tiktoktechjam2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +61,24 @@
       "location": "Online",
       "type": "Machine Learning/AI Open Ended Beginner Friendly",
       "url": "https://ai-builders-hackathon-2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "VoltHacks",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Beginner Friendly",
+      "url": "https://volthacks.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "3D Websites Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Design Web Beginner Friendly",
+      "url": "https://3d-websites-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,56 +160,47 @@
   ],
   "scholarships": [
     {
+      "title": "Mastercard Foundation Graduate Scholarship at the University of Toronto 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/01/mastercard-foundation-graduate-scholarship-at-the-university-of-toronto-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Vital Impacts Environmental Photography Fellowships and Mentorships 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/01/vital-impacts-environmental-photography-fellowships-and-mentorships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Princeton in Africa Fellowship 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/01/princeton-in-africa-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "94 Grants, Scholarships Fellowships and Other Opportunities Closing in September Currently Open\u00a0 \u2013 September 1, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/01/94-grants-scholarships-fellowships-and-other-opportunities-closing-in-september-currently-open-september-1-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "CRCD D.C. Fellowship for Civic Renewal 2027 (Fully-funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/08/31/crcd-dc-fellowship-for-civic-renewal-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Mercor Research Fellowship 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/31/mercor-research-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Institute for Law & AI Summer Fellowship\u00a02027 (Stipend available)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/31/institute-for-law-ai-summer-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Wallace Fellowships\u00a02027-2028 at Harvard University (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/31/wallace-fellowships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Heilbronn AI Fellowship\u00a02027 for International Postdoctoral Researchers",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/31/heilbronn-ai-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Bloomberg Data Science Ph.D. Fellowship 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/08/31/bloomberg-data-science-phd-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
