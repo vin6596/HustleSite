@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:15:32.533206+00:00",
+  "generated_at": "2026-09-02T20:19:37.297000+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,42 @@
   ],
   "scholarships": [
     {
+      "title": "Swiss Government Excellence Scholarships 2027-2028 for Foreign Scholars & Artists",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/02/swiss-government-excellence-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Leverhulme Trust Early Career Fellowships 2026 for Researchers (Salaried)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/02/leverhulme-trust-early-career-fellowships-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "IAEA Marie Sklodowska-Curie Fellowship Programme 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/02/iaea-marie-sklodowska-curie-fellowship-programme-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Iliad Fellowships in Applied Mathematics for AI Safety \u2013 Fall 2026 (up to $6,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/02/iliad-fellowships-fall-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Schlumberger Foundation Faculty for the Future Fellowships 2026-2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -187,65 +223,47 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "KAUST Global Fellowship Program (KGFP) 2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/kaust-global-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "The AfricaCDC Youth Pre-Conference 2026 for young Africans (Fully Funded to  Addis Ababa, Ethiopia)",
+      "title": "Japan International Cooperation Center (JICE) Japan-Africa Youth Program 2026 for African Animation Professionals (Fully Funded to Japan)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-africacdc-youth-pre-conference-2026/",
+      "url": "https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The KAUST Global Fellowship Program 2027 for Early-Career Researchers (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-kaust-global-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Pierre Elliott Trudeau Foundation Doctoral Scholarships 2027 for study in Canada ($60,000 per scholar)",
+      "title": "Julius Berger Nigeria Plc. Female Scholarship Award 2026 for Nigerian female undergraduates.",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/pierre-elliott-trudeau-foundation-doctoral-scholarships-2027/",
+      "url": "https://www.opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The Schlumberger Foundation Faculty for the Future Fellowships 2027/2028 for PhD or Post-doctoral research in STEM (USD 50,000 per year grant).",
+      "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP)\u00a02027/2029 for young women (\u20ac40,000 in tuition and living cost)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-schlumberger-foundation-faculty-for-the-future-fellowships-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/the-iaea-marie-sklodowska-curie-fellowship-programme-mscfp-2027-2029/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "UNU-WIDER Visiting Scholars Programme\u00a02027 for PhD Scholars (Fully Funded to Helsinki, Finland)",
+      "title": "The CivicHive Creative Changemakers Fellowship (CCMF) 2026 for young Nigerian creatives.",
       "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/unu-wider-visiting-scholars-programme-2027/",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "UNU-WIDER Visiting PhD Fellowship Programme 2027 for Doctoral Students (Fully Funded to Helsinki, Finland).",
+      "title": "The\u00a0AREF-MRC\u00a0Towards\u00a0Leadership\u00a0Programme 2026/2027 for Emerging\u00a0African Scientists (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/unu-wider-visiting-phd-fellowship-programme-2027-for-doctoral-students/",
+      "url": "https://www.opportunitiesforafricans.com/the-aref-mrc-towards-leadership-programme-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
