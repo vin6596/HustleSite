@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:26:21.416477+00:00",
+  "generated_at": "2026-09-03T20:19:35.244562+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,67 +160,49 @@
   ],
   "scholarships": [
     {
-      "title": "Swiss Government Excellence Scholarships 2027-2028 for Foreign Scholars & Artists",
+      "title": "NTU AI-for-X Postdoctoral Fellowship 2026 (SGD 250,000 research grant)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/swiss-government-excellence-scholarships-2027-2028/",
+      "url": "https://opportunitydesk.org/2026/09/03/ntu-ai-for-x-postdoctoral-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Leverhulme Trust Early Career Fellowships 2026 for Researchers (Salaried)",
+      "title": "Leon Levy Scholarships in Neuroscience 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/leverhulme-trust-early-career-fellowships-2026/",
+      "url": "https://opportunitydesk.org/2026/09/03/leon-levy-scholarships-in-neuroscience-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "IAEA Marie Sklodowska-Curie Fellowship Programme 2026",
+      "title": "Scotland Pakistan Scholarships for Young Women and Girls 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/iaea-marie-sklodowska-curie-fellowship-programme-2026/",
+      "url": "https://opportunitydesk.org/2026/09/03/scotland-pakistan-scholarships-for-young-women-and-girls-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Iliad Fellowships in Applied Mathematics for AI Safety \u2013 Fall 2026 (up to $6,000)",
+      "title": "Frontier Fellowship Programme 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/iliad-fellowships-fall-2026/",
+      "url": "https://opportunitydesk.org/2026/09/03/frontier-fellowship-programme-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Schlumberger Foundation Faculty for the Future Fellowships 2026-2027 (Funded)",
-      "org": "Opportunity Desk",
+      "title": "The International Renewable Energy Agency\u2019s (IRENA) 2027\u00a0IRENA Youth Forum in Abu Dhabi, UAE (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/faculty-for-the-future-fellowships-2026-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-international-renewable-energy-agencys-irena-2027-irena-youth-forum/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Creative Changemakers Fellowship (CCMF) 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/creative-changemakers-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Pierre Elliott Trudeau Foundation Scholarship 2027 (up to $50,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/02/pierre-elliott-trudeau-foundation-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Japan International Cooperation Center (JICE) Japan-Africa Youth Program 2026 for African Animation Professionals (Fully Funded to Japan)",
@@ -246,24 +228,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-iaea-marie-sklodowska-curie-fellowship-programme-mscfp-2027-2029/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The CivicHive Creative Changemakers Fellowship (CCMF) 2026 for young Nigerian creatives.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-civichive-creative-changemakers-fellowship-ccmf-2026-for-young-nigerian-creatives/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The\u00a0AREF-MRC\u00a0Towards\u00a0Leadership\u00a0Programme 2026/2027 for Emerging\u00a0African Scientists (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-aref-mrc-towards-leadership-programme-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
