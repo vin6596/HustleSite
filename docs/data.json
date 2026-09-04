@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:19:35.244562+00:00",
+  "generated_at": "2026-09-04T10:13:37.093748+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -16,15 +16,6 @@
       "location": "Online",
       "type": "Databases Machine Learning/AI Open Ended",
       "url": "https://agentic-cinema.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "The WebMCP Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI E-commerce/Retail Web",
-      "url": "https://webmcp.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -65,6 +56,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Open Ended Productivity",
+      "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "VoltHacks",
       "org": "Devpost",
       "location": "Online",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
       "org": "Devpost",
       "location": "Online",
-      "type": "Machine Learning/AI Open Ended Productivity",
-      "url": "https://amazonappdev2026.devpost.com/",
+      "type": "Beginner Friendly Health Machine Learning/AI",
+      "url": "https://hack-for-humanity-summer-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "BKR VC Fellowship Program 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/04/bkr-vc-fellowship-program-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "NTU AI-for-X Postdoctoral Fellowship 2026 (SGD 250,000 research grant)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -183,15 +192,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/03/scotland-pakistan-scholarships-for-young-women-and-girls-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Frontier Fellowship Programme 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/03/frontier-fellowship-programme-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
