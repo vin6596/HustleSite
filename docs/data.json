@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:13:37.093748+00:00",
+  "generated_at": "2026-09-04T20:04:46.996101+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/04/epfl-ai-center-and-swiss-ai-initiative-postdoctoral-fellowships-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Southeast Asia Research Group (SEAREG) Postdoctoral Fellowship Program 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/04/seareg-postdoctoral-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "BKR VC Fellowship Program 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,31 +187,31 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "NTU AI-for-X Postdoctoral Fellowship 2026 (SGD 250,000 research grant)",
+      "title": "Brooke Owens Fellowship \u2013 Class of 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/03/ntu-ai-for-x-postdoctoral-fellowship-2026/",
+      "url": "https://opportunitydesk.org/2026/09/04/brooke-owens-fellowship-class-of-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Leon Levy Scholarships in Neuroscience 2027",
-      "org": "Opportunity Desk",
+      "title": "ICGEB South African Women in Biotechnology Programme SAWBP \u2013 Postdoctoral Fellowship 2027 for South African women\u00a0Researchers.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/03/leon-levy-scholarships-in-neuroscience-2027/",
+      "url": "https://www.opportunitiesforafricans.com/icgeb-south-african-women-in-biotechnology-programme-sawbp-postdoctoral-fellowship-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Scotland Pakistan Scholarships for Young Women and Girls 2026",
-      "org": "Opportunity Desk",
+      "title": "The EAC Youth Fellowship 2026 for emerging East African Leaders (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/03/scotland-pakistan-scholarships-for-young-women-and-girls-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-eac-youth-fellowship-2026-for-emerging-east-african-leaders-fully-funded/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The International Renewable Energy Agency\u2019s (IRENA) 2027\u00a0IRENA Youth Forum in Abu Dhabi, UAE (Fully Funded)",
@@ -201,33 +219,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-international-renewable-energy-agencys-irena-2027-irena-youth-forum/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Japan International Cooperation Center (JICE) Japan-Africa Youth Program 2026 for African Animation Professionals (Fully Funded to Japan)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/japan-international-cooperation-center-jice-japan-africa-youth-program-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Julius Berger Nigeria Plc. Female Scholarship Award 2026 for Nigerian female undergraduates.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/julius-berger-nigeria-plc-female-scholarship-award-2026-for-nigerian-female-undergraduates/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The IAEA Marie Sklodowska-Curie Fellowship Programme (MSCFP)\u00a02027/2029 for young women (\u20ac40,000 in tuition and living cost)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-iaea-marie-sklodowska-curie-fellowship-programme-mscfp-2027-2029/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
