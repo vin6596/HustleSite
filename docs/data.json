@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:42:26.504229+00:00",
+  "generated_at": "2026-09-05T19:44:35.006537+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "Africa\u2019s Data Future Fellowship 2026 ($1,500 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/05/africa-data-future-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "East African Community (EAC) Youth Fellowship 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/05/eac-youth-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "ICGEB South African Women in Biotechnology Programme PhD Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/05/icgeb-sawbp-phd-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,24 +201,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/04/seareg-postdoctoral-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "BKR VC Fellowship Program 2026-2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/04/bkr-vc-fellowship-program-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Brooke Owens Fellowship \u2013 Class of 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/04/brooke-owens-fellowship-class-of-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
