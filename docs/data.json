@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:44:35.006537+00:00",
+  "generated_at": "2026-09-06T09:57:32.010664+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "AI Builders Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Open Ended Beginner Friendly",
-      "url": "https://ai-builders-hackathon-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Open Ended Productivity",
       "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "AI Builders Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Open Ended Beginner Friendly",
+      "url": "https://ai-builders-hackathon-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
