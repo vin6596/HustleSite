@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:56:25.404413+00:00",
+  "generated_at": "2026-09-08T10:19:53.951454+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication Enterprise Machine Learning/AI",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Beginner Friendly Robotic Process Automation",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "CALL-E: Your Code Is Calling",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Communication Enterprise Machine Learning/AI",
+      "url": "https://call-e.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,20 +160,11 @@
   ],
   "scholarships": [
     {
-      "title": "Mycoskie \u2013 UC Berkeley Psychedelic Documentary Fellowship 2026",
+      "title": "Institute for AI Policy and Strategy (IAPS) AI Policy Fellowship 2027 (Fully-funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/07/mycoskie-uc-berkeley-psychedelic-documentary-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Mastercard Foundation Scholarships: What Sets the Programme Apart, Who Can Apply and How to Get Started",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/06/mastercard-foundation-scholarships-what-sets-the-programme-apart-who-can-apply-and-how-to-get-started/",
+      "url": "https://opportunitydesk.org/2026/09/08/iaps-ai-policy-fellowship-spring-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
