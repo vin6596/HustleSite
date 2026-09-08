@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:19:53.951454+00:00",
+  "generated_at": "2026-09-08T20:31:21.076996+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -169,11 +169,38 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "ICGEB South African Women in Biotechnology Programme SAWBP \u2013 Postdoctoral Fellowship 2027 for South African women\u00a0Researchers.",
+      "title": "Commonwealth PhD Scholarships 2027/2028 for full-time doctoral study at a UK university (Fully Funded).",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/commonwealth-phd-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Commonwealth Master\u2019s Scholarships 2027/2028 for full-time Master\u2019s study at a UK university (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Centre for the Study of the Economies of Africa (CSEA) 2026 Africa\u2019s Data Future Fellowship (US$1,500 stipend)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/icgeb-south-african-women-in-biotechnology-programme-sawbp-postdoctoral-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-centre-for-the-study-of-the-economies-of-africa-csea-2026-africas-data-future-fellowship/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The M\u00e9decins Sans Fronti\u00e8res (MSF) Eastern Africa Media Fellowship Programme 2026 for East African Journalists",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-medecins-sans-frontieres-msf-eastern-africa-media-fellowship-programme-2026/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
