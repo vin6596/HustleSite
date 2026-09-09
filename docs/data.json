@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:31:21.076996+00:00",
+  "generated_at": "2026-09-09T10:28:07.136152+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -29,6 +29,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Open Ended Productivity",
+      "url": "https://amazonappdev2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -43,15 +52,6 @@
       "location": "Online",
       "type": "Communication Enterprise Machine Learning/AI",
       "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Open Ended Productivity",
-      "url": "https://amazonappdev2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -159,6 +159,15 @@
     }
   ],
   "scholarships": [
+    {
+      "title": "Medecins Sans Frontieres (MSF) Eastern Africa Media Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/09/msf-eastern-africa-media-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
     {
       "title": "Institute for AI Policy and Strategy (IAPS) AI Policy Fellowship 2027 (Fully-funded)",
       "org": "Opportunity Desk",
