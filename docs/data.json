@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:13:42.696427+00:00",
+  "generated_at": "2026-09-10T10:18:21.540265+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Design Gaming Mobile",
       "url": "https://revenuecat-shipaton-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Agentic Cinema: The Blockbuster Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Databases Machine Learning/AI Open Ended",
-      "url": "https://agentic-cinema.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "IoT Machine Learning/AI Serverless",
       "url": "https://opencv26.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "GatewayHacks 2026 | Software & AI ",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://gatewayhacks-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -159,6 +159,24 @@
     }
   ],
   "scholarships": [
+    {
+      "title": "Nordic Scholarship Programme 2027 for Researchers",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/10/nordic-scholarship-programme-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Chevening British Library Coptic Collections Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
     {
       "title": "Neukom Postdoctoral Fellowship 2027-2028 ($70,000 stipend)",
       "org": "Opportunity Desk",
