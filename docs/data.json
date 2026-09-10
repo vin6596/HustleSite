@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:18:21.540265+00:00",
+  "generated_at": "2026-09-10T20:15:30.675697+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "International Affairs Fellowship in Canada 2027-2028 ($110,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/10/international-affairs-fellowship-in-canada-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Nivishe Mental Health Fellowship Cohort 7",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Voqal Partners Fellowship 2027 ($30,000 award)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/10/voqal-partners-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Nordic Scholarship Programme 2027 for Researchers",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -187,40 +214,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Yenching Academy at Peking University 2027 \u2013 Full Scholarship for Master\u2019s Study in China",
-      "org": "Opportunity Desk",
+      "title": "Pitch Perfect Africa 2026 Innovation Fellowship for African Health Startups (CAD $5,000 prize)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/09/yenching-academy-at-peking-university-2027-scholarship/",
+      "url": "https://www.opportunitiesforafricans.com/pitch-perfect-africa-2026-innovation-fellowship/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Commonwealth Master\u2019s Scholarships 2027/2028 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/09/commonwealth-masters-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Commonwealth PhD Scholarships 2027/2028 (Fully-Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/09/commonwealth-phd-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Medecins Sans Frontieres (MSF) Eastern Africa Media Fellowship 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/09/msf-eastern-africa-media-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Arizona State University Mastercard Foundation Innovation and Technology Scholarships 2027/2028 for young African professionals (Fully Funded)",
