@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:17:45.410121+00:00",
+  "generated_at": "2026-09-11T20:15:00.051762+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "GatewayHacks 2026 | Software & AI ",
+      "title": "Global Innovation Build Challenge V2",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://gatewayhacks-2026.devpost.com/",
+      "type": "Machine Learning/AI Social Good Beginner Friendly",
+      "url": "https://gibc-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "LeadGreen Fellowship Cohort 4",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/11/leadgreen-fellowship-cohort-4/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Democracy Group Podcast Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "The 50 Percent Storytelling Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/11/the-50-percent-storytelling-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "International Affairs Fellowship in Canada 2027-2028 ($110,000 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,40 +205,31 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Voqal Partners Fellowship 2027 ($30,000 award)",
-      "org": "Opportunity Desk",
+      "title": "ARC Ltd\u2013GSSP Scholarship Program 2026 for Postgraduate Study in Africa (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/10/voqal-partners-fellowship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/arc-ltdgssp-scholarship-program-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Nordic Scholarship Programme 2027 for Researchers",
-      "org": "Opportunity Desk",
+      "title": "The Government of Japan Exchange and Teaching Programme 2027 for young Leaders (Fully Funded to Japan)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/10/nordic-scholarship-programme-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-government-of-japan-exchange-and-teaching-programme-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Chevening British Library Coptic Collections Fellowship 2027 (Funded)",
-      "org": "Opportunity Desk",
+      "title": "African Leadership Institute (AFLI) Archbishop Tutu Fellowship Programme 2027 for Emerging young African Leaders (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/10/chevening-british-library-coptic-collections-fellowship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/african-leadership-institute-afli-archbishop-tutu-fellowship-programme-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Neukom Postdoctoral Fellowship 2027-2028 ($70,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/09/neukom-postdoctoral-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Pitch Perfect Africa 2026 Innovation Fellowship for African Health Startups (CAD $5,000 prize)",
@@ -264,24 +282,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Centre for the Study of the Economies of Africa (CSEA) 2026 Africa\u2019s Data Future Fellowship (US$1,500 stipend)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-centre-for-the-study-of-the-economies-of-africa-csea-2026-africas-data-future-fellowship/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The M\u00e9decins Sans Fronti\u00e8res (MSF) Eastern Africa Media Fellowship Programme 2026 for East African Journalists",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-medecins-sans-frontieres-msf-eastern-africa-media-fellowship-programme-2026/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
