@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:02:18.780976+00:00",
+  "generated_at": "2026-09-14T11:19:22.300795+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "VoltHacks",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT Machine Learning/AI Beginner Friendly",
-      "url": "https://volthacks.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "OpenCV AI Competition 2026, powered by AWS",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Machine Learning/AI Social Good Beginner Friendly",
       "url": "https://gibc-v2.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "NextStep Hacks 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Social Good",
+      "url": "https://nextstep2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,42 @@
   ],
   "scholarships": [
     {
+      "title": "Global Changemaker Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/global-changemaker-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Clooney Foundation for Justice (CFJ) Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "I AM NALA Fellowship \u2013 Call for 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "African Philanthropy Media Fellowship (APMF) Cohort 2",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/african-philanthropy-media-fellowship-cohort-2/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "LeadGreen Fellowship Cohort 4",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,33 +210,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "The 50 Percent Storytelling Fellowship 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/11/the-50-percent-storytelling-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "International Affairs Fellowship in Canada 2027-2028 ($110,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/10/international-affairs-fellowship-in-canada-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Nivishe Mental Health Fellowship Cohort 7",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/10/nivishe-mental-health-fellowship-cohort-7/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
