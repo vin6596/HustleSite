@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:19:22.300795+00:00",
+  "generated_at": "2026-09-14T21:12:40.641234+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -38,15 +38,6 @@
       "source": "Devpost"
     },
     {
-      "title": "CALL-E: Your Code Is Calling",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication Enterprise Machine Learning/AI",
-      "url": "https://call-e.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "AI Builders Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Social Good",
       "url": "https://nextstep2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "OneAquaHealth IEEE Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Health Machine Learning/AI Social Good",
+      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Harris Social Impact Fellowship 2027-2028 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/harris-social-impact-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "AWARD Women in Agriculture Leadership Program Fellowship 2026 [Cohort 2]",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/14/award-women-in-agriculture-leadership-program-fellowship-2026-cohort-2/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Global Changemaker Fellowship 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -196,22 +214,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "LeadGreen Fellowship Cohort 4",
-      "org": "Opportunity Desk",
+      "title": "Gates Cambridge Scholarship Programme 2027/2028 for Study at the University of Cambridge, UK (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/11/leadgreen-fellowship-cohort-4/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/gates-cambridge-scholarship-programme-2027-2028-for-study-at-the-university-of-cambridge/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Democracy Group Podcast Fellowship 2026",
-      "org": "Opportunity Desk",
+      "title": "The Clooney Foundation Waging Justice for Women Fellowship 2027 for early-career women lawyers in sub-Saharan Africa",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/11/democracy-group-podcast-fellowship-2026/",
+      "url": "https://www.opportunitiesforafricans.com/the-clooney-foundation-waging-justice-for-women-fellowship-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "ARC Ltd\u2013GSSP Scholarship Program 2026 for Postgraduate Study in Africa (Fully Funded)",
@@ -264,33 +282,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/chevening-british-library-coptic-collections-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Nordic Africa Institute\u2019s Nordic Scholarship Programme 2027/2028 for early-career researchers (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/nordic-africa-institutes-nordic-scholarship-programme-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Commonwealth PhD Scholarships 2027/2028 for full-time doctoral study at a UK university (Fully Funded).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/commonwealth-phd-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Commonwealth Master\u2019s Scholarships 2027/2028 for full-time Master\u2019s study at a UK university (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/commonwealth-masters-scholarships-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
