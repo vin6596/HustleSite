@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:12:40.641234+00:00",
+  "generated_at": "2026-09-15T10:44:04.136468+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Design Gaming Mobile",
       "url": "https://revenuecat-shipaton-2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Agents for Humans Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://agentsforhumans.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Health Machine Learning/AI Social Good",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Beginner's Paradise - FirstCommit",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Mobile Web",
+      "url": "https://firstcommit.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,42 @@
   ],
   "scholarships": [
     {
+      "title": "Maple Global Innovation Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/15/maple-global-innovation-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "NSF Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) Fellowship 2027-2030",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/15/iaifi-fellowship-2027-2030/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Amelia Earhart Fellowship 2027 (up to $12,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/15/amelia-earhart-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Gates Cambridge Scholarships 2027-2028 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/15/gates-cambridge-scholarships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Harris Social Impact Fellowship 2027-2028 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,42 +210,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/14/award-women-in-agriculture-leadership-program-fellowship-2026-cohort-2/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Global Changemaker Fellowship 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/14/global-changemaker-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Clooney Foundation for Justice (CFJ) Fellowship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/14/cfj-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "I AM NALA Fellowship \u2013 Call for 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/14/i-am-nala-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "African Philanthropy Media Fellowship (APMF) Cohort 2",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/14/african-philanthropy-media-fellowship-cohort-2/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
