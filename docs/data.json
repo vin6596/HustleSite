@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:41:09.275556+00:00",
+  "generated_at": "2026-09-16T10:32:25.202081+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "Machine Learning/AI Beginner Friendly Robotic Process Automation",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "AI Builders Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Open Ended Beginner Friendly",
-      "url": "https://ai-builders-hackathon-2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Health Machine Learning/AI Social Good",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Beginner's Paradise - FirstCommit",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Mobile Web",
+      "url": "https://firstcommit.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Teach for Uganda STEM Fellowship\u00a02026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/16/teach-for-uganda-stem-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Maple Global Innovation Fellowship 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,33 +192,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/15/iaifi-fellowship-2027-2030/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Amelia Earhart Fellowship 2027 (up to $12,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/15/amelia-earhart-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Gates Cambridge Scholarships 2027-2028 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/15/gates-cambridge-scholarships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Harris Social Impact Fellowship 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/14/harris-social-impact-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
