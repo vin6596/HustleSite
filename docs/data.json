@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:42:18.563545+00:00",
+  "generated_at": "2026-09-17T20:47:04.856395+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "OneAquaHealth IEEE Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Health Machine Learning/AI Social Good",
-      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Beginner's Paradise - FirstCommit",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Mobile Web",
       "url": "https://firstcommit.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "OneAquaHealth IEEE Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Health Machine Learning/AI Social Good",
+      "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "U.S. Department of State\u2019s Gilman-McCain Scholarship \u2013 Fall 2026 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Jean Monnet Fellowship in the Social Sciences & Humanities for Postdoctoral Researchers 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/17/jean-monnet-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "30 Masters, Ph.D and Other Scholarship Opportunities  Currently Open \u2013\u00a0 September 16, 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,22 +196,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Teach for Uganda STEM Fellowship\u00a02026",
-      "org": "Opportunity Desk",
+      "title": "The World Bank Group Small AI for Development Hackathon Challenge\u00a02026 (Fully Funded to present at the 2026 Global AI and Digital Summit in Seoul, South Korea)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/16/teach-for-uganda-stem-fellowship-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-world-bank-group-small-ai-for-development-hackathon-challenge-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "AfricaLics PhD Visiting Fellowship Programme (VFP) 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/16/africalics-phd-visiting-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Open Notebook (TON) Early-Career Fellowship Program 2027 for early-career science journalists ($6,000 Stipend)",
@@ -219,24 +228,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Gates Cambridge Scholarship Programme 2027/2028 for Study at the University of Cambridge, UK (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/gates-cambridge-scholarship-programme-2027-2028-for-study-at-the-university-of-cambridge/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Clooney Foundation Waging Justice for Women Fellowship 2027 for early-career women lawyers in sub-Saharan Africa",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-clooney-foundation-waging-justice-for-women-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
