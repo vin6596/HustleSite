@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:17:59.915818+00:00",
+  "generated_at": "2026-09-18T20:11:14.913140+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,29 +160,29 @@
   ],
   "scholarships": [
     {
+      "title": "Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027 ($6,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/18/collaborative-discussion-emerging-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Global Mental Health Fellowship Program 2026 (Cohort 5)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/18/global-mental-health-fellowship-program-2026-cohort-5/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "MAIA AI Safety Fundamentals (AISF) Fellowship \u2013 Fall 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "The Open Notebook Early-Career Fellowship Program 2027 ($6,600 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/17/the-open-notebook-early-career-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "U.S. Department of State\u2019s Gilman-McCain Scholarship \u2013 Fall 2026 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
@@ -210,15 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "AfricaLics Visiting PhD Fellowship Programme 2027 for young African PhD Students (Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/africalics-visiting-phd-fellowship-programme-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
