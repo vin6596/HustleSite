@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:47:04.856395+00:00",
+  "generated_at": "2026-09-18T10:17:59.915818+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "NextStep Hacks 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Social Good",
-      "url": "https://nextstep2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Communication Mobile Machine Learning/AI",
       "url": "https://aws-cds-partner.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "NextStep Hacks 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Social Good",
+      "url": "https://nextstep2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,38 +160,29 @@
   ],
   "scholarships": [
     {
+      "title": "MAIA AI Safety Fundamentals (AISF) Fellowship \u2013 Fall 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Open Notebook Early-Career Fellowship Program 2027 ($6,600 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/17/the-open-notebook-early-career-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "U.S. Department of State\u2019s Gilman-McCain Scholarship \u2013 Fall 2026 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/17/gilman-mccain-scholarship-fall-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Jean Monnet Fellowship in the Social Sciences & Humanities for Postdoctoral Researchers 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/17/jean-monnet-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "30 Masters, Ph.D and Other Scholarship Opportunities  Currently Open \u2013\u00a0 September 16, 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/16/30-masters-ph-d-and-other-scholarship-opportunities-currently-open-september-16-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "How to Write a Winning Mastercard Foundation Scholarship Essay",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/16/how-to-write-a-winning-mastercard-foundation-scholarship-essay/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
