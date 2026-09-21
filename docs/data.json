@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:02:03.048551+00:00",
+  "generated_at": "2026-09-21T11:32:39.079338+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "NextStep Hacks 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Social Good",
-      "url": "https://nextstep2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Beginner's Paradise - FirstCommit",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Health Machine Learning/AI Social Good",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "MLAI Hackathon 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Databases Machine Learning/AI",
+      "url": "https://mlai-hackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,29 +160,56 @@
   ],
   "scholarships": [
     {
+      "title": "Citizen AI Arts & Technology Fellowship 2026-2027 ($3,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/21/citizen-ai-arts-technology-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Partnership for Public Good (PPG) Research Fellowship 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/21/ppg-research-fellowship-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Perplexity Research Fellowship 2027 (paid)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/21/perplexity-research-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "1834 Global Fellowship 2027 for Black Canadians",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/21/1834-global-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Polyfoni Social Sciences for AI Fellowship 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/21/polyfoni-social-sciences-for-ai-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027 ($6,000 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/18/collaborative-discussion-emerging-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Global Mental Health Fellowship Program 2026 (Cohort 5)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/18/global-mental-health-fellowship-program-2026-cohort-5/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "MAIA AI Safety Fundamentals (AISF) Fellowship \u2013 Fall 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/17/maia-ai-safety-fundamentals-fellowship-fall-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
@@ -201,15 +228,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-open-notebook-ton-early-career-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The European University Institute Jean Monnet Fellowships\u00a02027 for PhD Scholars (\u20ac 2,850 per month grant and Fully Funded to Florence, Italy)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-european-university-institute-jean-monnet-fellowships-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
