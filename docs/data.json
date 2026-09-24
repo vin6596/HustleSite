@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:48:43.285073+00:00",
+  "generated_at": "2026-09-24T20:57:38.625027+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "AGORA Fellowship 2027 for Mid-career Leaders [Cohort 2]",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/24/agora-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Indomie Scholarship Program 2026 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/24/indomie-scholarship-program-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Internet Society Fellowship Program 2027 (up to $5,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/24/internet-society-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Mo Ibrahim Foundation Leadership Fellowship Program 2027 ($100,000 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,40 +205,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Aarhus Institute of Advanced Studies (AIAS) Visiting Fellowships\u00a02027 (Funded)",
-      "org": "Opportunity Desk",
+      "title": "The 2027 Jim Leech Mastercard Foundation Fellowship on Entrepreneurship for young African students & recent graduates.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/23/aias-visiting-fellowships-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-2027-jim-leech-mastercard-foundation-fellowship-on-entrepreneurship/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "NNF-IAS Fellowship 2027-2029 for Researchers",
-      "org": "Opportunity Desk",
+      "title": "The Internet Society Fellowship Program 2026/2027 for experienced Internet changemakers and emerging leaders.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/23/nnf-ias-fellowship-2027-2029/",
+      "url": "https://www.opportunitiesforafricans.com/the-internet-society-fellowship-program-2026-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "AIAS-Riksbankens Jubileumsfond Fellowship 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/23/aias-riksbankens-jubileumsfond-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "AIAS-AUFF Fellowship 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/23/aias-auff-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Airtel Africa Foundation\u00a0Tech Scholarship 2026/2027 for young Zambian students.",
@@ -228,24 +237,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-mo-ibrahim-foundation-leadership-fellowship-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Equality Fund Journalism Fellowship 2026 for Journalists worldwide  ($4000 CAD stipend)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-equality-fund-journalism-fellowship-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The YALI 2027 Mandela Washington Fellowship for young African Leaders (Fully Funded to the United States of America)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/yali-2027-mandela-washington-fellowship/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
