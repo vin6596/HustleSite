@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:53:20.123236+00:00",
+  "generated_at": "2026-09-24T10:48:43.285073+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Mo Ibrahim Foundation Leadership Fellowship Program 2027 ($100,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/24/mo-ibrahim-foundation-leadership-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Equality Fund Journalism Fellowship 2026-2027 ($4,000 CAD stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/24/equality-fund-journalism-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Aarhus Institute of Advanced Studies (AIAS) Visiting Fellowships\u00a02027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -196,13 +214,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Mandela Washington Fellowship for Young African Leaders 2027 (Fully-funded to the U.S.)",
-      "org": "Opportunity Desk",
+      "title": "The Airtel Africa Foundation\u00a0Tech Scholarship 2026/2027 for young Zambian students.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/22/mandela-washington-fellowship-for-young-african-leaders-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-airtel-africa-foundation-tech-scholarship-2026-2027-for-young-zambian-students/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Mo Ibrahim Foundation Leadership Fellowship Programme 2027 for emerging African Leaders (Fully Funded to work at AfDB, UNECA & ITC with an Annual Stipend of $100,000)",
