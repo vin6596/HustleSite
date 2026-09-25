@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:57:38.625027+00:00",
+  "generated_at": "2026-09-25T10:52:44.738349+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "MLAI Hackathon 2026",
+      "title": "Build With AI: Basics",
       "org": "Devpost",
       "location": "Online",
-      "type": "Databases Machine Learning/AI",
-      "url": "https://mlai-hackathon.devpost.com/",
+      "type": "Machine Learning/AI Beginner Friendly Education",
+      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "10 Ways to Increase Your Chances of Winning a Fully Funded Scholarship",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://opportunitydesk.org/2026/09/24/10-more-ways-to-increase-your-chances-of-winning-a-fully-funded-scholarship/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "AGORA Fellowship 2027 for Mid-career Leaders [Cohort 2]",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -192,15 +201,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/09/24/mo-ibrahim-foundation-leadership-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Equality Fund Journalism Fellowship 2026-2027 ($4,000 CAD stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/24/equality-fund-journalism-fellowship-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
