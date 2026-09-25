@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:52:44.738349+00:00",
+  "generated_at": "2026-09-25T20:54:38.617790+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -47,6 +47,15 @@
       "source": "Devpost"
     },
     {
+      "title": "Build With AI: Basics",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Beginner Friendly Education",
+      "url": "https://learn-ai-basics.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
@@ -70,15 +79,6 @@
       "location": "Online",
       "type": "Health Machine Learning/AI Social Good",
       "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Build With AI: Basics",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Beginner Friendly Education",
-      "url": "https://learn-ai-basics.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/25/jim-leech-mastercard-foundation-fellowship-on-entrepreneurship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "10 Ways to Increase Your Chances of Winning a Fully Funded Scholarship",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,31 +187,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Indomie Scholarship Program 2026 (Fully-funded)",
-      "org": "Opportunity Desk",
+      "title": "Mercedes-Benz beVisioneers Fellowship Program 2027 for young innovators (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/24/indomie-scholarship-program-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Internet Society Fellowship Program 2027 (up to $5,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/24/internet-society-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Mo Ibrahim Foundation Leadership Fellowship Program 2027 ($100,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/24/mo-ibrahim-foundation-leadership-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The 2027 Jim Leech Mastercard Foundation Fellowship on Entrepreneurship for young African students & recent graduates.",
