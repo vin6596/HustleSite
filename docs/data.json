@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:51:27.195700+00:00",
+  "generated_at": "2026-09-29T21:41:17.462887+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -160,20 +160,38 @@
   ],
   "scholarships": [
     {
-      "title": "Fellowship in Outbreak Readiness for Global Health Protection (FOR-GHP) 2026",
+      "title": "British Academy Innovation Fellowships Scheme 2026 (up to \u00a3120,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/28/fellowship-in-outbreak-readiness-for-global-health-protection-2026/",
+      "url": "https://opportunitydesk.org/2026/09/29/british-academy-innovation-fellowships-scheme-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Mentora Scholars Fellowship 2027 (Fully-funded)",
+      "title": "Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027-2028",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/26/mentora-scholars-fellowship-2027/",
+      "url": "https://opportunitydesk.org/2026/09/29/maria-rosario-lazzati-niada-scholarship-for-afghan-women-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) 2027/2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/29/hong-kong-phd-fellowship-scheme-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Foundation for American Innovation\u2019s Conservative AI Policy Fellowship (CAPF) 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/29/conservative-ai-policy-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
