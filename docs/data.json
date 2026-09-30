@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:38:18.901382+00:00",
+  "generated_at": "2026-09-30T21:41:56.181319+00:00",
   "hackathons": [
     {
       "title": "RevenueCat Shipaton 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Beginner's Paradise - FirstCommit",
+      "title": "Multimodal AI Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Mobile Web",
-      "url": "https://firstcommit.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Michael D. Eisner Arts & Culture Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/09/30/michael-d-eisner-arts-culture-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Anzisha Fellowship 2027 for Young Entrepreneurs",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,40 +178,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "British Academy Innovation Fellowships Scheme 2026 (up to \u00a3120,000)",
-      "org": "Opportunity Desk",
+      "title": "The University of Rwanda Mastercard Foundation Undergraduate Scholars Program 2026/2027 for young Africans (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/29/british-academy-innovation-fellowships-scheme-2026/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-university-of-rwanda-mastercard-foundation-undergraduate-scholars-program-2026-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Maria Rosario Lazzati Niada Scholarship for Afghan Women 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/29/maria-rosario-lazzati-niada-scholarship-for-afghan-women-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Hong Kong PhD Fellowship Scheme (HKPFS) 2027/2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/29/hong-kong-phd-fellowship-scheme-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Foundation for American Innovation\u2019s Conservative AI Policy Fellowship (CAPF) 2027 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/09/29/conservative-ai-policy-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The St Gallen Symposium Global Leadership Challenge 2026 for emerging young Leaders (Fully Funded)",
@@ -228,33 +210,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/hong-kong-phd-fellowship-scheme-2027-2028-for-study-in-hong-kong/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The ACEP Youth Champions for Fiscal Accountability (YCFA) Fellowship 2026 for Young Ghanaians",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-acep-youth-champions-for-fiscal-accountability-ycfa-fellowship-2026-for-young-ghanaians/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The ACEP Media Fellowship on Fiscal Accountability and Anti-Corruption 2026 for Journalists and Content Producers.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Mercedes-Benz beVisioneers Fellowship Program 2027 for young innovators (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
