@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:38:33.858739+00:00",
+  "generated_at": "2026-10-02T21:37:30.989070+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
+      "title": "PayPal AI Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Low/No Code Machine Learning/AI Web",
+      "url": "https://paypalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Multimodal AI Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI",
       "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Global Innovation Build Challenge V2",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Social Good Beginner Friendly",
-      "url": "https://gibc-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Beginner's Paradise - FirstCommit",
+      "title": "WarriorHacks 2.0",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Mobile Web",
-      "url": "https://firstcommit.devpost.com/",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://warriorhacks-2-0.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,40 +160,22 @@
   ],
   "scholarships": [
     {
-      "title": "University of California President Postdoctoral Fellowship Program 2026/2027 (Funded)",
+      "title": "NVIDIA Graduate Fellowship 2027-2028 (up to $60,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/01/university-of-california-president-postdoctoral-fellowship-2026-2027/",
+      "url": "https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "MOPGA Fellowship Program 2027 for Early-career International Researchers",
-      "org": "Opportunity Desk",
+      "title": "TWAS Research Professors in Least Developed Countries (LDCs) Programme 2026/2027 (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/01/mopga-fellowship-program-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/twas-research-professors-in-least-developed-countries-ldcs-programme-2026-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "King\u2019s Commonwealth Fellowship (KCFP) Programme Undergraduate Fellowships 2026-2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/01/kcfp-programme-undergraduate-fellowships-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "69 Master\u2019s and PhD Scholarships and Fellowships You Can Apply for Now \u2013 October 1, 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/01/69-masters-phd-scholarships-and-fellowships-you-can-apply-for-now-october-1-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
@@ -219,24 +201,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Yale Maurice R. Greenberg World Fellows Program 2027 for mid-career emerging Global Leaders (Fully Funded to Yale University, USA)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Washington College of Law Human Rights Essay Award 2027 (full tuition scholarship\u00a0to the Program of Advanced Studies on Human Rights and Humanitarian Law)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
