@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:51:26.965416+00:00",
+  "generated_at": "2026-10-03T20:23:42.071634+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -160,11 +160,29 @@
   ],
   "scholarships": [
     {
-      "title": "NVIDIA Graduate Fellowship 2027-2028 (up to $60,000)",
+      "title": "Loeb Fellowship\u00a02027-2028 at the Harvard Graduate School of Design (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/",
+      "url": "https://opportunitydesk.org/2026/10/03/loeb-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Google Ireland Scholarship for Women in Computer Science 2027 (\u20ac5,000 award)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/03/google-ireland-scholarship-for-women-in-computer-science-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 ($500 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
