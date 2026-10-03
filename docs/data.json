@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:37:30.989070+00:00",
+  "generated_at": "2026-10-03T10:51:26.965416+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -16,6 +16,15 @@
       "location": "Online",
       "type": "Machine Learning/AI Beginner Friendly Robotic Process Automation",
       "url": "https://nebiusglobalaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "PayPal AI Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Low/No Code Machine Learning/AI Web",
+      "url": "https://paypalaihackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -43,15 +52,6 @@
       "location": "Online",
       "type": "AR/VR Machine Learning/AI Web",
       "url": "https://start-developer-competition-26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "PayPal AI Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Low/No Code Machine Learning/AI Web",
-      "url": "https://paypalaihackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
