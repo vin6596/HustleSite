@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:07:25.533872+00:00",
+  "generated_at": "2026-10-05T23:30:27.235694+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "title": "Life After Code",
       "org": "Devpost",
       "location": "Online",
-      "type": "Communication Mobile Machine Learning/AI",
-      "url": "https://aws-cds-partner.devpost.com/",
+      "type": "DevOps Machine Learning/AI Productivity",
+      "url": "https://gitlab-transcend.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -232,38 +232,20 @@
       "source": "Opportunity Desk"
     },
     {
+      "title": "The\u00a0Jasiri Talent Investor Programme (Cohort 9) for young East African Entrepreneurs (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
       "title": "TWAS Research Professors in Least Developed Countries (LDCs) Programme 2026/2027 (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/twas-research-professors-in-least-developed-countries-ldcs-programme-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Dalai Lama Fellowship Programme 2027 for emerging changemakers (Fully Funded to Contemplative Leadership Assembly)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The UONGOZI Institute Emerging Leaders Programme 2026/2027 for mid-level executives (Scholarships Available",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
