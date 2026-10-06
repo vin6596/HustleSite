@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:29:02.700898+00:00",
+  "generated_at": "2026-10-06T22:03:18.174092+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "WarriorHacks 2.0",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://warriorhacks-2-0.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Life After Code",
       "org": "Devpost",
       "location": "Online",
       "type": "DevOps Machine Learning/AI Productivity",
       "url": "https://gitlab-transcend.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "WarriorHacks 2.0",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://warriorhacks-2-0.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,42 @@
   ],
   "scholarships": [
     {
+      "title": "Ernest May Fellowship in History and Policy 2027-2028 (stipend available)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/06/ernest-may-fellowship-in-history-and-policy-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Kuwait Program Research Fellowship 2027-2028 at HKS Belfer Center\u00a0($65,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/06/kuwait-program-research-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "ABCD Future Environmental Leaders Scholarships 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/06/abcd-future-environmental-leaders-scholarships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Kuwait Program Visiting Scholar Fellowship 2027-2028 ($10,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/06/kuwait-program-visiting-scholar-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Sara E. and Bruce B. Collette Postdoctoral Fellowship in Systematic Ichthyology 2027 (stipend available)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,58 +205,40 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "AIxBio Fellowship 2027 at Cambridge (Fully-funded)",
-      "org": "Opportunity Desk",
+      "title": "The University of Global Health Equity (UGHE) Mastercard Foundation Scholars Program 2027 for African healthcare professionals (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/aixbio-fellowship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "NetHope Humanitarian AI Research Fellowship 2026/2027",
-      "org": "Opportunity Desk",
+      "title": "The Afya na Haki (Ahaki) Litigating Reproductive Justice in Africa (LIRA) Fellowship Programme 2026 for young African Professionals.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/nethope-humanitarian-ai-research-fellowship-2026-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-afya-na-haki-ahaki-litigating-reproductive-justice-in-africa-lira-fellowship-programme-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Switzer Fellowships\u00a02027 for Graduate Students in the U.S.",
-      "org": "Opportunity Desk",
+      "title": "French Government\u2019s Make Our Planet Great Again (MOPGA) Scholarship Program 2027 for early-career Researchers (Funded Study in France).",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/switzer-fellowships-2027/",
+      "url": "https://www.opportunitiesforafricans.com/french-governments-make-our-planet-great-again-mopga-scholarship-program-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "America in the World Consortium Predoctoral Fellowship 2027-2028 (Stipend available)",
-      "org": "Opportunity Desk",
+      "title": "The International Water Association (IWA) & Grundfos Youth Action for SDG 6 Fellowship",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/america-in-the-world-consortium-predoctoral-fellowship-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/the-international-water-association-iwa-grundfos-youth-action-for-sdg-6-fellowship/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Alfred Friendly Press Partners Fellowship 2027 ($2,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/alfred-friendly-press-partners-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "HP-UCL IOE Fellowship in AI in Education 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/05/hp-ucl-ioe-fellowship-in-ai-in-education-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The\u00a0Jasiri Talent Investor Programme (Cohort 9) for young East African Entrepreneurs (Fully Funded)",
@@ -228,15 +246,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "TWAS Research Professors in Least Developed Countries (LDCs) Programme 2026/2027 (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/twas-research-professors-in-least-developed-countries-ldcs-programme-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
