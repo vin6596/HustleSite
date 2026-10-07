@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:03:18.174092+00:00",
+  "generated_at": "2026-10-07T12:22:08.988053+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -159,6 +159,15 @@
     }
   ],
   "scholarships": [
+    {
+      "title": "Study in the USA: How to Find Scholarships and Turn Your American Dream into an Admission Offer",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/07/study-in-the-usa-how-to-find-scholarships-and-turn-your-american-dream-into-an-admission-offer/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
     {
       "title": "Ernest May Fellowship in History and Policy 2027-2028 (stipend available)",
       "org": "Opportunity Desk",
