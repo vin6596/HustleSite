@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:31:32.415635+00:00",
+  "generated_at": "2026-10-08T22:40:53.326190+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -160,29 +160,29 @@
   ],
   "scholarships": [
     {
+      "title": "Gloria\u2019s Foundation Fellowship 2027 ($5,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Heinz Heinen Fellowship Program 2027-2028 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/08/heinz-heinen-fellowship-program-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Novo Nordisk Foundation Postdoctoral Fellowships at Massachusetts Institute of Technology 2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/08/novo-nordisk-foundation-postdoctoral-fellowships-at-mit-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "27 Scholarship Opportunities Closing in October \u2013 October 7, 2026",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Stanford University Center for International Security and Cooperation Fellowship 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
