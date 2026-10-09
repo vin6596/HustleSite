@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:40:53.326190+00:00",
+  "generated_at": "2026-10-09T12:19:52.711597+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -160,29 +160,20 @@
   ],
   "scholarships": [
     {
+      "title": "World Bank Group Government Analytics Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/09/world-bank-group-government-analytics-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Gloria\u2019s Foundation Fellowship 2027 ($5,000 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Heinz Heinen Fellowship Program 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/08/heinz-heinen-fellowship-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Novo Nordisk Foundation Postdoctoral Fellowships at Massachusetts Institute of Technology 2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/08/novo-nordisk-foundation-postdoctoral-fellowships-at-mit-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
