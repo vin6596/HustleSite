@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:17:11.125852+00:00",
+  "generated_at": "2026-10-12T13:58:47.981837+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -160,20 +160,29 @@
   ],
   "scholarships": [
     {
-      "title": "Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded)",
+      "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/",
+      "url": "https://opportunitydesk.org/2026/10/12/echidna-global-scholars-visiting-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "World Bank Group Government Analytics Fellowship 2027",
+      "title": "Branco Weiss Fellowship \u2013 Society in Science 2027 (up to CHF600,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/09/world-bank-group-government-analytics-fellowship-2027/",
+      "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Africa-China Post-Doctoral Fellowship 2027-2028 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/12/africa-china-post-doctoral-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
