@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:59:00.542122+00:00",
+  "generated_at": "2026-10-13T13:16:23.341991+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,15 +183,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Africa-China Post-Doctoral Fellowship 2027-2028 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/12/africa-china-post-doctoral-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
