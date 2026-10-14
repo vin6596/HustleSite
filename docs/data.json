@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:54:01.411304+00:00",
+  "generated_at": "2026-10-14T21:08:13.539678+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+      "title": "Qloo Agentic Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Communication Mobile Machine Learning/AI",
-      "url": "https://aws-cds-partner.devpost.com/",
+      "type": "Machine Learning/AI",
+      "url": "https://qloo.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,31 +160,49 @@
   ],
   "scholarships": [
     {
-      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
+      "title": "France Excellence Eiffel Scholarship Program 2026-2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
+      "title": "From Rejections to \u2018Congratulations\u2019 : What to Do After Winning a Life-Changing Scholarship",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/12/echidna-global-scholars-visiting-fellowship-2027/",
+      "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
     {
-      "title": "Branco Weiss Fellowship \u2013 Society in Science 2027 (up to CHF600,000)",
+      "title": "International Funders for Indigenous Peoples (IFIP) Global Conference 2027 Scholarship",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
+      "url": "https://opportunitydesk.org/2026/10/14/ifip-global-conference-2027-scholarship/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "Royal Society Dorothy Hodgkin Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters & Ph.D. Study in France (Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The 2027 United Nations Regional Course in International Law for Africa \u2013 Addis Ababa, Ethiopia (Fully Funded)",
@@ -201,24 +219,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-global-investigative-journalism-conference-fellowship-2027-for-journalists-from-the-global-south/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Falling Walls Female Science Talents Intensive Track\u00a02027 for outstanding early-career women in science worldwide (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/falling-walls-female-science-talents-intensive-track-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Echidna Global Scholars Program 2027 at Brookings Institution, Washington D.C USA ($26,500 USD Stipend & Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-echidna-global-scholars-program-2027-at-brookings-institution/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
