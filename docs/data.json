@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:07:35.556132+00:00",
+  "generated_at": "2026-10-14T10:54:01.411304+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "WarriorHacks 2.0",
+      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://warriorhacks-2-0.devpost.com/",
+      "type": "Communication Mobile Machine Learning/AI",
+      "url": "https://aws-cds-partner.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
