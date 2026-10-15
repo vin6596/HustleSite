@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:36:28.107804+00:00",
+  "generated_at": "2026-10-15T20:46:02.414137+00:00",
   "hackathons": [
     {
       "title": "Build, Ship, Shape: Amazon Developer Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "OpenCV AI Competition 2026, powered by AWS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT Machine Learning/AI Serverless",
-      "url": "https://opencv26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Build With AI: Basics",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Beginner Friendly Education",
       "url": "https://learn-ai-basics.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "OpenCV AI Competition 2026, powered by AWS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Serverless",
+      "url": "https://opencv26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,31 +160,22 @@
   ],
   "scholarships": [
     {
-      "title": "Harrison Middleton University (HMU) Fellowship in Ideas 2027",
-      "org": "Opportunity Desk",
+      "title": "WWF\u2019s Russell E. Train Fellowships 2027/2028 for master\u2019s or doctoral students ($15,000 per year)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/",
+      "url": "https://www.opportunitiesforafricans.com/wwfs-russell-e-train-fellowships-2027-2028-for-masters-or-doctoral-students/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "France Excellence Eiffel Scholarship Program 2026-2027",
-      "org": "Opportunity Desk",
+      "title": "The APDD Individual Research Fellowships 2027 for African Researchers.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-apdd-individual-research-fellowships-2027-for-african-researchers/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "From Rejections to \u2018Congratulations\u2019 : What to Do After Winning a Life-Changing Scholarship",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters & Ph.D. Study in France (Funded)",
@@ -192,24 +183,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The 2027 United Nations Regional Course in International Law for Africa \u2013 Addis Ababa, Ethiopia (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-2027-united-nations-regional-course-in-international-law-for-africa/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Global Investigative Journalism Conference Fellowship 2027 for Journalists from the Global South (Fully Funded to Rotterdam, The Netherlands)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-global-investigative-journalism-conference-fellowship-2027-for-journalists-from-the-global-south/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
