@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-23T10:47:15.457243+00:00",
+  "generated_at": "2026-10-23T20:51:44.247005+00:00",
   "hackathons": [
-    {
-      "title": "Build, Ship, Shape: Amazon Developer Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Open Ended Productivity",
-      "url": "https://amazonappdev2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
       "org": "Devpost",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Communication Mobile Machine Learning/AI",
       "url": "https://aws-cds-partner.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR E-commerce/Retail Machine Learning/AI",
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,31 +160,13 @@
   ],
   "scholarships": [
     {
-      "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open \u2013 October 22, 2026",
-      "org": "Opportunity Desk",
+      "title": "The DAAD Heilbronn AI Fellowship 2026/2027 for International Postdoctoral Researchers in Artificial Intelligence (Funded study in Germany)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+      "url": "https://www.opportunitiesforafricans.com/the-daad-heilbronn-ai-fellowship-2026-2027-for-international-postdoctoral-researchers-in-artificial-intelligence/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/22/airc-non-resident-research-fellowship-in-ai-and-social-sciences-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Swedish Institute (SI) Scholarship for Global Professionals 2027 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/22/si-scholarship-for-global-professionals-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master\u2019s Level Studies in Sweden (Fully Funded)",
@@ -228,24 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The HP-UCL IOE Fellowship in AI in Education \u2013 global executive leadership programme for senior education leaders (Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "ifa CrossCulture Programme (CCP) Fellowship 2027 for young professionals (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/ifa-crossculture-programme-ccp-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
