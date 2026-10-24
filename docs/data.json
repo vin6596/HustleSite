@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:51:44.247005+00:00",
+  "generated_at": "2026-10-24T10:01:37.616720+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -159,6 +159,24 @@
     }
   ],
   "scholarships": [
+    {
+      "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open \u2013 October 22, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
     {
       "title": "The DAAD Heilbronn AI Fellowship 2026/2027 for International Postdoctoral Researchers in Artificial Intelligence (Funded study in Germany)",
       "org": "Opportunities For Africans",
