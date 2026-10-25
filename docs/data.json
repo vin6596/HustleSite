@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:27:07.356883+00:00",
+  "generated_at": "2026-10-25T20:10:57.031949+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Cal Hacks 13.0",
+      "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
       "org": "Devpost",
-      "location": "Palace of Fine Arts",
-      "type": "Beginner Friendly Social Good Open Ended",
-      "url": "https://cal-hacks-13-0.devpost.com/",
+      "location": "Online",
+      "type": "AR/VR E-commerce/Retail Machine Learning/AI",
+      "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -183,15 +183,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/24/si-pioneering-women-in-stem-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
