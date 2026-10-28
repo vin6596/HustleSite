@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:52:52.983947+00:00",
+  "generated_at": "2026-10-28T22:01:56.529194+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Communication Mobile Machine Learning/AI",
-      "url": "https://aws-cds-partner.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Learn AR with SPECS",
       "org": "Devpost",
       "location": "Online",
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Lifehacks Machine Learning/AI Productivity",
       "url": "https://ugreenhackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Low/No Code Open Ended",
+      "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -196,13 +196,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "IWA & Grundfos \u201cYouth Action for SDG 6\u201d Fellowship 2027-2028",
-      "org": "Opportunity Desk",
+      "title": "NNPC/SNEPCo National University Scholarship Programme 2026 for Young Nigerian Students.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/27/iwa-grundfos-youth-action-for-sdg-6-fellowship-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/nnpc-snepco-national-university-scholarship-programme-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
