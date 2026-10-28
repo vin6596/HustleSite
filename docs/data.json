@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:38:31.729608+00:00",
+  "generated_at": "2026-10-28T11:52:52.983947+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program 2027/2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/28/smart-scholarship-for-service-program-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "AHRC Doctoral Landscape Scholarship Awards at Birmingham City University 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/28/ahrc-doctoral-landscape-awards-at-birmingham-city-university-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "CDC Steven M. Teutsch Prevention Effectiveness (PE) Fellowship 2027 (Paid)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/28/cdc-steven-m-teutsch-prevention-effectiveness-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "IDRC John G. Bene Fellowship 2026 (up to $30,000 CAD)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,15 +201,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/27/iwa-grundfos-youth-action-for-sdg-6-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "United Nations DPoA MTR Journalism Fellowship 2027 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/27/dpoa-mtr-journalism-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
@@ -205,10 +223,10 @@
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The Internews\u2019 Earth Journalism Network (EJN) Reporting Fellowships for Journalists to Cover BBNJ COP1 in New York City, USA",
+      "title": "The Internews\u2019 Earth Journalism Network (EJN) Reporting Fellowships for Journalists to Cover BBNJ COP1 in New York City, USA (Fully Funded).",
       "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
+      "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-reporting-fellowships-for-journalists-to-cover-bbnj-cop1/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
