@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:00:05.830787+00:00",
+  "generated_at": "2026-10-29T22:13:35.684875+00:00",
   "hackathons": [
     {
       "title": "Nebius x NVIDIA Global AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Low/No Code Open Ended",
-      "url": "https://dsh-hacks-v2.devpost.com/",
+      "type": "Machine Learning/AI Enterprise Productivity",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Mozilla Foundation Fellowships 2027-2028 (up to $125,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/29/mozilla-foundation-fellowships-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Green Global Fellowship 2027 for Emerging Leaders",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/29/green-global-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Columbia HBCU Fellowship Program Fall 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -185,6 +203,24 @@
       "url": "https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Heinrich B\u00f6ll Foundation\u2019s (HBS) Feminist Futures Fellowship 2027 for young feminists (Fully Funded to CSW 71 in New York, USA)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-heinrich-boll-foundations-hbs-feminist-futures-fellowship-2027-for-young-feminists-fully-funded-to-csw-71-in-new-york-usa/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Mozilla Foundation\u2019s Fellowship 2027/2028 for innovators worldwide ($125,000 in funding)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-mozilla-foundations-fellowship-2027-2028-for-innovators-worldwide/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "NNPC/SNEPCo National University Scholarship Programme 2026 for Young Nigerian Students.",
@@ -219,24 +255,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-reporting-fellowships-for-journalists-to-cover-bbnj-cop1/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The WACSI Next Generation Internship Programme 2027 for young graduates and early-Career professionals (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-wacsi-next-generation-internship-programme-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
