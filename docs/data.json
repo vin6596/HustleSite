@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-30T11:54:01.613464+00:00",
+  "generated_at": "2026-10-30T21:49:14.663371+00:00",
   "hackathons": [
-    {
-      "title": "Nebius x NVIDIA Global AI Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Beginner Friendly Robotic Process Automation",
-      "url": "https://nebiusglobalaihackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
     {
       "title": "PayPal AI Hackathon",
       "org": "Devpost",
@@ -25,6 +16,15 @@
       "location": "Online",
       "type": "AR/VR Machine Learning/AI Web",
       "url": "https://start-developer-competition-26.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Kiroween 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://kiroween.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Global Burden of Disease (GBD) Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Mozilla Foundation Fellowships 2027-2028 (up to $125,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,31 +196,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Columbia HBCU Fellowship Program Fall 2027",
-      "org": "Opportunity Desk",
+      "title": "The American University of Cairo (AUC)\u00a0Mastercard Foundation Scholars Program 2027 (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/29/columbia-hbcu-fellowship-program-fall-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-american-university-of-cairo-auc-mastercard-foundation-scholars-program-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Heinrich B\u00f6ll Foundation Feminist Futures Fellowship 2027",
-      "org": "Opportunity Desk",
+      "title": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Hans De Wit Fellowship 2027 (stipend available)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Heinrich B\u00f6ll Foundation\u2019s (HBS) Feminist Futures Fellowship 2027 for young feminists (Fully Funded to CSW 71 in New York, USA)",
@@ -237,24 +246,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-sciences-po-mastercard-foundation-scholars-program-2027-for-graduate-study-in-france/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The UN DPoA Mid-Term Review Journalism Fellowship 2027 for journalists from Least Developed Countries (Fully Funded to Doha, Qatar)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-un-dpoa-mid-term-review-journalism-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Internews\u2019 Earth Journalism Network (EJN) Reporting Fellowships for Journalists to Cover BBNJ COP1 in New York City, USA (Fully Funded).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-reporting-fellowships-for-journalists-to-cover-bbnj-cop1/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
