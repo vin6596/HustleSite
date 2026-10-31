@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:27:42.743485+00:00",
+  "generated_at": "2026-10-31T20:49:17.666930+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "UGREEN Hackathon 2026 on AI NAS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Lifehacks Machine Learning/AI Productivity",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Enterprise Productivity",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Lifehacks Machine Learning/AI Productivity",
+      "url": "https://ugreenhackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -174,24 +174,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Mozilla Foundation Fellowships 2027-2028 (up to $125,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/29/mozilla-foundation-fellowships-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Green Global Fellowship 2027 for Emerging Leaders",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/29/green-global-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
