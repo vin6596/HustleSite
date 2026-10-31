@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:49:14.663371+00:00",
+  "generated_at": "2026-10-31T11:27:42.743485+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -25,15 +25,6 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://kiroween.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Qloo Agentic Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI",
-      "url": "https://qloo.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Machine Learning/AI Enterprise Productivity",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Low/No Code Open Ended",
+      "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
