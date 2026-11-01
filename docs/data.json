@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:49:17.666930+00:00",
+  "generated_at": "2026-11-01T12:23:01.613720+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Meta VR Start Developer Competition 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Web",
-      "url": "https://start-developer-competition-26.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Kiroween 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://kiroween.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Meta VR Start Developer Competition 2026",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR Machine Learning/AI Web",
+      "url": "https://start-developer-competition-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Design",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Enterprise Productivity",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR Machine Learning/AI Design",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -165,15 +165,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
