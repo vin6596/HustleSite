@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:30:54.994208+00:00",
+  "generated_at": "2026-11-02T14:18:46.341239+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Design",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "UGREEN Hackathon 2026 on AI NAS",
       "org": "Devpost",
       "location": "Online",
       "type": "Lifehacks Machine Learning/AI Productivity",
       "url": "https://ugreenhackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR Machine Learning/AI Design",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,13 +160,22 @@
   ],
   "scholarships": [
     {
-      "title": "Global Burden of Disease (GBD) Fellowship 2027",
-      "org": "Opportunity Desk",
+      "title": "The International Journalists\u2018 Programmes (IJP) Southern-African Journalists\u2019 Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Hive Colab Mastercard Foundation EdTech Fellowship 2027 for growth-stage Ugandan EdTech Ventures.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/hive-colab-mastercard-foundation-edtech-fellowship-2027-for-growth-stage-ugandan-edtech-ventures/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The American University of Cairo (AUC)\u00a0Mastercard Foundation Scholars Program 2027 (Fully Funded)",
@@ -183,42 +192,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Heinrich B\u00f6ll Foundation\u2019s (HBS) Feminist Futures Fellowship 2027 for young feminists (Fully Funded to CSW 71 in New York, USA)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-heinrich-boll-foundations-hbs-feminist-futures-fellowship-2027-for-young-feminists-fully-funded-to-csw-71-in-new-york-usa/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Mozilla Foundation\u2019s Fellowship 2027/2028 for innovators worldwide ($125,000 in funding)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-mozilla-foundations-fellowship-2027-2028-for-innovators-worldwide/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "NNPC/SNEPCo National University Scholarship Programme 2026 for Young Nigerian Students.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/nnpc-snepco-national-university-scholarship-programme-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-sciences-po-mastercard-foundation-scholars-program-2027-for-graduate-study-in-france/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
