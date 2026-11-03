@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:13:52.926253+00:00",
+  "generated_at": "2026-11-03T13:18:48.216025+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Open Ended",
+      "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
       "title": "Arbiter Hacks V1",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://arbiter-hacks-v1.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Code for Humanity",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Education Machine Learning/AI Web",
-      "url": "https://code-for-humanity.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -159,6 +159,24 @@
     }
   ],
   "scholarships": [
+    {
+      "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
     {
       "title": "WAAW Foundation Scholarship 2027 for Female College Students in Africa",
       "org": "Opportunity Desk",
