@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:18:48.216025+00:00",
+  "generated_at": "2026-11-03T22:43:06.628516+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "DSH Hacks V2 ($100k+ in prizes!)",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Low/No Code Open Ended",
-      "url": "https://dsh-hacks-v2.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "QNX Global Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "IoT Machine Learning/AI Open Ended",
       "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "DSH Hacks V2 ($100k+ in prizes!)",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Low/No Code Open Ended",
+      "url": "https://dsh-hacks-v2.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -187,6 +187,15 @@
       "source": "Opportunity Desk"
     },
     {
+      "title": "The Rise Up Together  Leadership & Advocacy Accelerator Program 2027 for young South African changemakers (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-rise-up-together-leadership-advocacy-accelerator-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
       "title": "2027/2029 Erasmus Mundus Master\u2019s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
@@ -210,15 +219,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The International Journalists\u2018 Programmes (IJP) Southern-African Journalists\u2019 Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
