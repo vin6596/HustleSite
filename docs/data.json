@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:43:06.628516+00:00",
+  "generated_at": "2026-11-04T13:31:05.112967+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "Institute for Policy Integrity Economic Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-economic-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Institute for Policy Integrity Legal Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-legal-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,13 +196,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "WAAW Foundation Scholarship 2027 for Female College Students in Africa",
-      "org": "Opportunity Desk",
+      "title": "The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzibar)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/02/waaw-foundation-scholarship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The ILO Better Regional Migration Management (BRMM)Programme Journalism and Storytelling Competition 2026 (Fully Funded to the Fifth LMAG in Zanzibar)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Rise Up Together  Leadership & Advocacy Accelerator Program 2027 for young South African changemakers (Fully Funded)",
@@ -210,15 +237,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "WAAW Foundation Scholarship 2026 for African Female Students ($500 award)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/waaw-foundation-scholarship-2026-for-african-female-students/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
