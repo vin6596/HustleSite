@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:31:05.112967+00:00",
+  "generated_at": "2026-11-04T23:00:39.804807+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "EDSAFE AI Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/04/edsafe-ai-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Institute for Policy Integrity Economic Fellowship 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,22 +187,40 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
-      "org": "Opportunity Desk",
+      "title": "The CEPS/Heinrich B\u00f6ll Stiftung Climate Leadership Programme 2027 for young climate leaders (Fully Funded to Brussels, Belgium)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-ceps-heinrich-boll-stiftung-climate-leadership-programme-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
-      "org": "Opportunity Desk",
+      "title": "The Cannes Lions 2027 Scholarships for underrepresented talent\u00a0in the creative industry (Fully Funded to Cannes Lions)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-cannes-lions-2027-scholarships/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The FirstRand Oxford Blavatnik School of Government Scholarship 2027/2028 for a Master of Public Policy at the University of Oxford (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-firstrand-oxford-blavatnik-school-of-government-scholarship-2027-2028-for-a-master-of-public-policy/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Centre for Research in the Arts, Humanities and Social Sciences (CRASSH) at the University of Cambridge Visiting Fellowships 2027/2028 (Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+      "url": "https://www.opportunitiesforafricans.com/the-centre-for-research-in-the-arts-humanities-and-social-sciences-crassh-at-the-university-of-cambridge-visiting-fellowships-2027-2028/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzibar)",
@@ -219,24 +246,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-rise-up-together-leadership-advocacy-accelerator-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "2027/2029 Erasmus Mundus Master\u2019s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Government of Mauritius Africa Scholarships Scheme 2027 for study in Mauritius (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
