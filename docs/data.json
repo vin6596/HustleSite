@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:00:39.804807+00:00",
+  "generated_at": "2026-11-05T13:45:42.184985+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/05/crassh-visiting-fellowships-for-scholars-from-the-global-south-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Cannes Lions Scholarship 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/05/cannes-lions-scholarship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "EDSAFE AI Fellowship 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,15 +192,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-economic-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Institute for Policy Integrity Legal Fellowship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-legal-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
