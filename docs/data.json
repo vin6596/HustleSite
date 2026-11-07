@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:09:44.967127+00:00",
+  "generated_at": "2026-11-07T21:14:52.485470+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -47,20 +47,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Design",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "QNX Global Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "IoT Machine Learning/AI Open Ended",
       "url": "https://qnx.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Learn AR with SPECS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "AR/VR Machine Learning/AI Design",
+      "url": "https://learn-specs.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "How to Get a Scholarship with a Third-Class Degree: 7 Practical Steps to Improve Your Chances",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/07/how-to-get-a-scholarship-with-a-third-class-degree-7-practical-steps-to-improve-your-chances/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Spencer Fellowship for Education Reporting 2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -183,15 +192,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/05/how-to-ace-your-scholarship-interview-12-tips-to-help-you-stand-out/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "University of Vienna Faculty of Law Fellowship Programme  \u2013 Summer 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
