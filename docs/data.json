@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:14:52.485470+00:00",
+  "generated_at": "2026-11-08T12:30:02.283953+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
+      "title": "HackUTD 2026: ZeroDay",
       "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "location": "University of Texas at Dallas - ECSW",
+      "type": "Open Ended Beginner Friendly Social Good",
+      "url": "https://hackutd-zeroday.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "How to Get a Scholarship with a Third-Class Degree: 7 Practical Steps to Improve Your Chances",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,29 +187,11 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Spencer Fellowship for Education Reporting 2027 (Funded)",
+      "title": "Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 \u2013 Cohort 1",
       "org": "Opportunity Desk",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/06/spencer-fellowship-for-education-reporting-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "International Blue Carbon Institute (IBCI) Fellowship Program 2027 ($60,000 grant)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/06/ibci-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "How to Ace Your Scholarship Interview: 12 Tips to Help You Stand Out",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/05/how-to-ace-your-scholarship-interview-12-tips-to-help-you-stand-out/",
+      "url": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
