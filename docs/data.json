@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:30:02.283953+00:00",
+  "generated_at": "2026-11-08T21:29:48.019649+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "HackUTD 2026: ZeroDay",
+      "title": "Arbiter Hacks V1",
       "org": "Devpost",
-      "location": "University of Texas at Dallas - ECSW",
-      "type": "Open Ended Beginner Friendly Social Good",
-      "url": "https://hackutd-zeroday.devpost.com/",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
