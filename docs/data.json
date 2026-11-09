@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:29:48.019649+00:00",
+  "generated_at": "2026-11-09T14:48:22.649907+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
+      "title": "AWS MSP AI Hackathon",
       "org": "Devpost",
       "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "type": "Machine Learning/AI Productivity Web",
+      "url": "https://aws-agentic-msp.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -174,24 +174,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "How to Get a Scholarship with a Third-Class Degree: 7 Practical Steps to Improve Your Chances",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/07/how-to-get-a-scholarship-with-a-third-class-degree-7-practical-steps-to-improve-your-chances/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 \u2013 Cohort 1",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
