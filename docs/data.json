@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:48:22.649907+00:00",
+  "generated_at": "2026-11-10T01:00:04.719950+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Codegeist 2026: Build with context. Ship with confidence.",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Enterprise Productivity",
-      "url": "https://codegeist2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "UGREEN Hackathon 2026 on AI NAS",
       "org": "Devpost",
       "location": "Online",
       "type": "Lifehacks Machine Learning/AI Productivity",
       "url": "https://ugreenhackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Enterprise Productivity",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -56,15 +56,6 @@
       "source": "Devpost"
     },
     {
-      "title": "Learn AR with SPECS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Design",
-      "url": "https://learn-specs.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "DSH Hacks V2 ($100k+ in prizes!)",
       "org": "Devpost",
       "location": "Online",
@@ -74,11 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "AWS MSP AI Hackathon",
+      "title": "Arbiter Hacks V1",
       "org": "Devpost",
       "location": "Online",
-      "type": "Machine Learning/AI Productivity Web",
-      "url": "https://aws-agentic-msp.devpost.com/",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Code for Humanity",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Education Machine Learning/AI Web",
+      "url": "https://code-for-humanity.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada\u00a0(Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/09/icann-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Morgridge Acceleration Program (MAP) Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/09/morgridge-acceleration-program-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Voices of the Future Global Fellowship 2027 (Fully-funded trip to France)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/09/effie-lions-foundation-voices-of-the-future-global-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,13 +196,49 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028",
-      "org": "Opportunity Desk",
+      "title": "2027 African Development Bank Group Shanghai Ocean University Scholarship\u00a0Bachelor, Master\u2019s, and PhD Program (Funded study in Shanghai, China)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/2027-african-development-bank-group-shanghai-ocean-university-scholarship-bachelor-masters-and-phd-program/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Airtel Africa Foundation Tech Fellowship 2026/2027 Undergraduate Scholarship for young Nigerians. (Fully Funded)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/airtel-africa-foundation-tech-fellowship-2026-2027-undergraduate-scholarship/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The African Wildlife Foundation (AWF) Geospatial Leaders Fellowship (GIS) 2027 for mid-level conservation GIS professionals.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-african-wildlife-foundation-awf-geospatial-leaders-fellowship-gis-2027-for-mid-level-conservation-gis-professionals/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Johannesburg Institute for Advanced Study (JIAS) Writing Fellowships 2027 for emerging African creatives (Fully Funded to Johannesburg, South Africa)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-johannesburg-institute-for-advanced-study-jias-writing-fellowships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The Internet Corporation for Assigned Names and Numbers (ICANN89) Policy Forum Fellowship Program 2027 (Fully Funded to Vancouver, Canada)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-internet-corporation-for-assigned-names-and-numbers-icann89-policy-forum-fellowship-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 for young changemakers (Fully Funded to the 2027 AFS Youth Assembly in Switzerland)",
@@ -210,33 +273,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "NED Reagan-Fascell Democracy Fellows Program 2027/2028 for democracy activists, journalists, civil society leaders & scholars Worldwide (Fully Funded to Washington DC, USA).",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/ned-reagan-fascell-democracy-fellows-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Humboldt Residency Programme 2027 for Researchers, Creatives and Civil Society Practitioners (Fully Funded to Germany)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-humboldt-residency-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The MCW Global\u2019s Young Leaders Fellowship 2027 for young changemakers worldwide (Fully Funded to New York, USA)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
