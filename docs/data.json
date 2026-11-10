@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:01:55.133585+00:00",
+  "generated_at": "2026-11-10T22:40:20.336491+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -160,6 +160,42 @@
   ],
   "scholarships": [
     {
+      "title": "Wave Winter Research Fellowship 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Career Pathways Initiative Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/10/career-pathways-initiative-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Nature Culture Fellowship 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/10/nature-culture-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Debt Accountability Journalism Fellowship 2027 for Nigerian Journalists",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/10/debt-accountability-journalism-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada\u00a0(Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,13 +214,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Voices of the Future Global Fellowship 2027 (Fully-funded trip to France)",
-      "org": "Opportunity Desk",
+      "title": "Commonwealth Shared Scholarships 2027/2028 for full-time Master\u2019s study in the United Kingdom (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/09/effie-lions-foundation-voices-of-the-future-global-fellowship-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/commonwealth-shared-scholarships-2027-2028/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "2027 African Development Bank Group Shanghai Ocean University Scholarship\u00a0Bachelor, Master\u2019s, and PhD Program (Funded study in Shanghai, China)",
@@ -237,33 +273,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Hurford Youth Fellows Program 2027 for emerging youth Leaders (Fully Funded to Washington D.C., United States)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Center for Effective Global Action (CEGA) 2027/2028 Visiting Fellowship for African researchers.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-center-for-effective-global-action-cega-2027-2028-visiting-fellowship-for-african-researchers/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "CFA Institute Access Scholarship Programme 2026/2027 for aspiring Finance Professionals",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
