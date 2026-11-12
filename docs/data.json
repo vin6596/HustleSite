@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:53:00.121581+00:00",
+  "generated_at": "2026-11-12T14:20:32.731923+00:00",
   "hackathons": [
     {
       "title": "PayPal AI Hackathon",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "UGREEN Hackathon 2026 on AI NAS",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Lifehacks Machine Learning/AI Productivity",
-      "url": "https://ugreenhackathon.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Codegeist 2026: Build with context. Ship with confidence.",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Enterprise Productivity",
       "url": "https://codegeist2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "UGREEN Hackathon 2026 on AI NAS",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Lifehacks Machine Learning/AI Productivity",
+      "url": "https://ugreenhackathon.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "Gratitude Network Fellowship\u00a02027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/12/gratitude-network-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Thrive Capital Summer Fellowship 2027 ($100,000 salary)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/12/thrive-capital-summer-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Jodi Harris Scholarship 2027 for Emerging Marketing Leaders",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/12/jodi-harris-scholarship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -183,60 +210,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Global Youth Mental Health Research Fellowship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "African Wildlife Foundation (AWF) Geospatial Leaders Fellowship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/11/awf-geospatial-leaders-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Wave Winter Research Fellowship 2026-2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Career Pathways Initiative Fellowship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/10/career-pathways-initiative-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
