@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T13:40:45.019980+00:00",
+  "generated_at": "2026-11-13T23:03:27.342929+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Bayer Foundation Scientific Fellowships 2027 (up to \u20ac10,000)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -187,31 +205,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Gratitude Network Fellowship\u00a02027",
-      "org": "Opportunity Desk",
+      "title": "The Bayer Foundation Scientific Fellowships 2027 for Master, PhD, and Medical Students (10.000 \u20ac grant)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/gratitude-network-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-bayer-foundation-scientific-fellowships-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Thrive Capital Summer Fellowship 2027 ($100,000 salary)",
-      "org": "Opportunity Desk",
+      "title": "The WIPO IP and Women Fellowship 2027 for young professionals (CHF 6,000 monthly stipend)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/thrive-capital-summer-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Jodi Harris Scholarship 2027 for Emerging Marketing Leaders",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/jodi-harris-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
@@ -246,15 +255,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-center-for-effective-global-action-cega-fellowship-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "NNPC Limited / TotalEnergies National Merit Scholarship Scheme (NMSS) 2026/2027 for young Nigerian students.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/nnpc-limited-totalenergies-national-merit-scholarship-scheme-nmss-2026-2027-for-young-nigerian-students/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
