@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:45:01.053726+00:00",
+  "generated_at": "2026-11-14T21:50:10.578633+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -174,33 +183,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "E-JUST TICAD9 African Scholarship for STI \u2013 Fall 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "DSTI-NRF Policy Fellowship Programme 2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
