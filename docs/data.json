@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:22:16.686815+00:00",
+  "generated_at": "2026-11-17T01:19:37.515667+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -56,20 +56,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Open Agentic Web Challenge",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Web Social Good",
-      "url": "https://cognizant-agenticweb.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Deck the Pixels",
       "org": "Devpost",
       "location": "Online",
       "type": "Design Machine Learning/AI Low/No Code",
       "url": "https://deckthepixels.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Open Agentic Web Challenge",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Web Social Good",
+      "url": "https://cognizant-agenticweb.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "International Court of Justice Judicial Fellowship Programme 2027-2028",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/16/icj-judicial-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Digispace Africa Research Fellowship 2027",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,31 +178,13 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
-      "org": "Opportunity Desk",
+      "title": "The Sterling Bank-Google Career Certification Program for Nigerian women (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-sterling-bank-google-career-certification-program/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "UCD Iseult Honohan Doctoral Scholarship 2027 (Fully-funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/13/ucd-iseult-honohan-doctoral-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Bayer Foundation Scientific Fellowships 2027 (up to \u20ac10,000)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Bayer Foundation Scientific Fellowships 2027 for Master, PhD, and Medical Students (10.000 \u20ac grant)",
@@ -219,33 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The DSTI-NRF Policy Fellowship Programme Cohort 2 (24-month placements) for early- and mid-career South African professionals.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-dsti-nrf-policy-fellowship-programme-cohort-2/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship 2027/2028 for Study in France (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/nnpc-ltd-totalenergies-international-masters-degree-scholarship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Center for Effective Global Action (CEGA) Fellowship Program 2027/2028 for African Researchers (monetary stipend and fully funded UC Berkeley Residency)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-center-for-effective-global-action-cega-fellowship-program-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
