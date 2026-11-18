@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:51:07.880197+00:00",
+  "generated_at": "2026-11-18T23:43:52.320818+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -7,15 +7,6 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://kiroween.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
-      "title": "Meta VR Start Developer Competition 2026",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "AR/VR Machine Learning/AI Web",
-      "url": "https://start-developer-competition-26.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -79,6 +70,15 @@
       "location": "Online",
       "type": "Beginner Friendly Machine Learning/AI Open Ended",
       "url": "https://arbiter-hacks-v1.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Code for Humanity",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Education Machine Learning/AI Web",
+      "url": "https://code-for-humanity.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -205,6 +205,15 @@
       "source": "Opportunity Desk"
     },
     {
+      "title": "The Oxford Sa\u00efd Future Leaders Scholarships 2027 for young professionals.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-oxford-said-future-leaders-scholarships-2027-for-young-professionals/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
       "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to  France)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
@@ -237,24 +246,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-international-court-of-justice-icj-judicial-fellowship-programme-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Healthy Futures Mastercard Scholarship 2027 for African Changemakers.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-healthy-futures-mastercard-scholarship-2027-for-african-changemakers/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The East Africa Biodesign Fellowship 2027/2028 Health Innovation Fellowship for African Innovators (Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-east-africa-biodesign-fellowship-2027-2028-health-innovation-fellowship/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
