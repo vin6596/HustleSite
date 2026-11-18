@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:14:17.129733+00:00",
+  "generated_at": "2026-11-18T00:15:31.312337+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "DAAD Heilbronn AI Fellowship\u00a02027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "International Court of Justice Judicial Fellowship Programme 2027-2028",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -167,6 +185,33 @@
       "url": "https://opportunitydesk.org/2026/11/16/icj-judicial-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to  France)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Knight Science Journalism Academic-Year Fellowship at MIT 2027/2028 for Science Journalists worldwide ($USD $87,500 Stipend)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/knight-science-journalism-academic-year-fellowship-2027-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master\u2019s Scholarships in Public Health.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The International Court of Justice (ICJ) Judicial Fellowship Programme 2027/2028 for recent Law Graduates \u2013 The Hague, Netherlands.",
@@ -178,47 +223,20 @@
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo, Japan)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-uniqlo-global-management-program-2027-for-undergraduates-and-postgraduates/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Sterling Bank-Google Career Certification Program for Nigerian women (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-sterling-bank-google-career-certification-program/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Bayer Foundation Scientific Fellowships 2027 for Master, PhD, and Medical Students (10.000 \u20ac grant)",
+      "title": "The Healthy Futures Mastercard Scholarship 2027 for African Changemakers.",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-bayer-foundation-scientific-fellowships-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-healthy-futures-mastercard-scholarship-2027-for-african-changemakers/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The WIPO IP and Women Fellowship 2027 for young professionals (CHF 6,000 monthly stipend)",
+      "title": "The East Africa Biodesign Fellowship 2027/2028 Health Innovation Fellowship for African Innovators (Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-wipo-ip-and-women-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-east-africa-biodesign-fellowship-2027-2028-health-innovation-fellowship/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
