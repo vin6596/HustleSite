@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:57:13.525843+00:00",
+  "generated_at": "2026-11-20T00:02:26.465241+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -74,11 +74,11 @@
       "source": "Devpost"
     },
     {
-      "title": "Code for Humanity",
+      "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
-      "type": "Education Machine Learning/AI Web",
-      "url": "https://code-for-humanity.devpost.com/",
+      "type": "Databases Gaming Machine Learning/AI",
+      "url": "https://cloud9.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,33 @@
   ],
   "scholarships": [
     {
+      "title": "Rest & Resilience Fellowship 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Reporters Without Borders (RSF) Berlin Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/19/rsf-berlin-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "20 Scholarships, Grants, Fellowships and Other Opportunities Currently Open \u2013 November 19, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/19/20-scholarships-grants-fellowships-and-other-opportunities-currently-open-november-19-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Malek Sghiri Scholarship 2027 to Study Arabic in Tunisia",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,74 +205,38 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "John M. Belk Impact Fellowship 2027-2028 (Paid)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/19/john-m-belk-impact-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Stanley Park Climate Finance Scholarships 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Journalism & Women Symposium (JAWS) Health Journalism Fellowship 2027 ($4,000 stipend)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/18/jaws-health-journalism-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Healthy Futures Mastercard Scholarship 2027",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "The Oxford Sa\u00efd Future Leaders Scholarships 2027 for young professionals.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-oxford-said-future-leaders-scholarships-2027-for-young-professionals/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to  France)",
+      "title": "The HIV Science Geneva 2027 Media Scholarship Programme to cover HIVR4P 2027 and IAS 2027 in Geneva, Switzerland (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-hiv-science-geneva-2027-media-scholarship-programme-to-cover-hivr4p-2027-and-ias-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "Knight Science Journalism Academic-Year Fellowship at MIT 2027/2028 for Science Journalists worldwide ($USD $87,500 Stipend)",
+      "title": "The Reporters Without Borders (RSF) Berlin Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/knight-science-journalism-academic-year-fellowship-2027-2028/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/reporters-without-borders-rsf-berlin-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
     {
-      "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master\u2019s Scholarships in Public Health.",
+      "title": "The taz Panter Foundation Rest & Resilience Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-taz-panter-foundation-rest-resilience-fellowship-2027-for-journalists-worldwide/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The IAS Person-Centred Care Global Advocacy Academy 2027 (Fully Funded to Geneva, Switzerland)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-ias-person-centred-care-global-advocacy-academy-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
