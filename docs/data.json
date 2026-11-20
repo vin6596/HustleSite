@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:02:26.465241+00:00",
+  "generated_at": "2026-11-20T14:39:40.652451+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Oxford Sa\u00efd Future Leaders Scholarships 2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/20/oxford-said-future-leaders-scholarships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Rest & Resilience Fellowship 2027 (Fully-funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -192,15 +201,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://opportunitydesk.org/2026/11/19/malek-sghiri-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "Morris B. Abram Fellowship 2027-2028",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/19/morris-b-abram-fellowship-2027-2028/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
     },
