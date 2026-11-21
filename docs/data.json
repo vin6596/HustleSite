@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:30:23.332809+00:00",
+  "generated_at": "2026-11-21T13:56:08.237905+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -11,20 +11,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Codegeist 2026: Build with context. Ship with confidence.",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Machine Learning/AI Enterprise Productivity",
-      "url": "https://codegeist2026.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "#BuildHybridAI 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Mobile Web",
       "url": "https://firebasehybridaihackathon.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Codegeist 2026: Build with context. Ship with confidence.",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Machine Learning/AI Enterprise Productivity",
+      "url": "https://codegeist2026.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -187,6 +187,15 @@
       "source": "Opportunity Desk"
     },
     {
+      "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
       "title": "The University of Cambridge Mastercard Foundation Scholars Programme 2027/2028 for young Africans (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
@@ -201,24 +210,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-hiv-science-geneva-2027-media-scholarship-programme-to-cover-hivr4p-2027-and-ias-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Reporters Without Borders (RSF) Berlin Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/reporters-without-borders-rsf-berlin-fellowship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The taz Panter Foundation Rest & Resilience Fellowship 2027 for journalists worldwide (Fully Funded to Berlin, Germany)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-taz-panter-foundation-rest-resilience-fellowship-2027-for-journalists-worldwide/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
