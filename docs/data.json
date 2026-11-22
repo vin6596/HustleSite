@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:49:25.108950+00:00",
+  "generated_at": "2026-11-22T23:00:14.667118+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -65,20 +65,20 @@
       "source": "Devpost"
     },
     {
-      "title": "Arbiter Hacks V1",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "Beginner Friendly Machine Learning/AI Open Ended",
-      "url": "https://arbiter-hacks-v1.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
       "org": "Devpost",
       "location": "Online",
       "type": "Databases Gaming Machine Learning/AI",
       "url": "https://cloud9.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "Arbiter Hacks V1",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "Beginner Friendly Machine Learning/AI Open Ended",
+      "url": "https://arbiter-hacks-v1.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
