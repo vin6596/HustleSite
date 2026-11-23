@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:00:14.667118+00:00",
+  "generated_at": "2026-11-23T16:55:50.882973+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -29,20 +29,20 @@
       "source": "Devpost"
     },
     {
-      "title": "QNX Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT Machine Learning/AI Open Ended",
-      "url": "https://qnx.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Reddit\u2019s Game of the Day Hackathon",
       "org": "Devpost",
       "location": "Online",
       "type": "Beginner Friendly Gaming",
       "url": "https://redditgameofday2026.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Open Ended",
+      "url": "https://qnx.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Public Policy New Voices Fellowship Program 2026-2027",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -185,6 +194,24 @@
       "url": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunity Desk"
+    },
+    {
+      "title": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD\u00a0monthly stipend)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-tor-community-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "Fulbright Teaching Excellence and Achievement Program 2027/2028 (Fulbright TEA) for secondary-level teachers (Fully Funded to the United States)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/fulbright-teaching-excellence-and-achievement-program-2027-2028-fulbright-tea-for-secondary-level-teachers/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
