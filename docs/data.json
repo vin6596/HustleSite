@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:38:52.130974+00:00",
+  "generated_at": "2026-11-24T16:45:39.572481+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -38,20 +38,20 @@
       "source": "Devpost"
     },
     {
-      "title": "QNX Global Hackathon",
-      "org": "Devpost",
-      "location": "Online",
-      "type": "IoT Machine Learning/AI Open Ended",
-      "url": "https://qnx.devpost.com/",
-      "tag": "Hackathon",
-      "source": "Devpost"
-    },
-    {
       "title": "Open Agentic Web Challenge",
       "org": "Devpost",
       "location": "Online",
       "type": "Machine Learning/AI Web Social Good",
       "url": "https://cognizant-agenticweb.devpost.com/",
+      "tag": "Hackathon",
+      "source": "Devpost"
+    },
+    {
+      "title": "QNX Global Hackathon",
+      "org": "Devpost",
+      "location": "Online",
+      "type": "IoT Machine Learning/AI Open Ended",
+      "url": "https://qnx.devpost.com/",
       "tag": "Hackathon",
       "source": "Devpost"
     },
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "ANSO-CAS-TWAS/UNESCO PhD Scholarship 2026-2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/24/anso-cas-twas-unesco-phd-scholarship-2026-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Yale Council on African Studies Visiting African Scholars Fellowship 2027-2028",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -187,22 +196,22 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
-      "org": "Opportunity Desk",
+      "title": "The Acumen Green RISE East Africa Fellowship 2027 (6-month leadership program) for Green Entrepreneurs (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-acumen-green-rise-east-africa-fellowship-2027-6-month-leadership-program/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Asia House Fellowship 2027/2028 (\u00a324,000 stipend)",
-      "org": "Opportunity Desk",
+      "title": "The ANSO-CAS-TWAS/UNESCO PhD Scholarship 2027 for students/scholars from developing countries.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028/",
+      "url": "https://www.opportunitiesforafricans.com/the-anso-cas-twas-unesco-phd-scholarship-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD\u00a0monthly stipend)",
@@ -219,24 +228,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/fulbright-teaching-excellence-and-achievement-program-2027-2028-fulbright-tea-for-secondary-level-teachers/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Yale Council on African Studies Visiting African Scholars Fellowship 2027/2028 for African academics.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-yale-council-on-african-studies-visiting-african-scholars-fellowship-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
