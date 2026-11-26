@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:31:58.075358+00:00",
+  "generated_at": "2026-11-26T01:21:01.334646+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,24 @@
   ],
   "scholarships": [
     {
+      "title": "10 Global Scholarship Opportunities Currently Open \u2013 November 25, 2026",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/25/10-global-scholarship-opportunities-currently-open-november-25-2026/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
+      "title": "Iso Lomso Fellowships\u00a02028 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/25/iso-lomso-fellowships-2028/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Acumen Academy Green RISE East Africa Fellowship 2027 (Fully-funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -169,40 +187,31 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Cora Weiss Fellowship for Young Women Peacebuilders 2027 (Funded)",
-      "org": "Opportunity Desk",
+      "title": "Iso Lomso Fellowships 2027 for Early Career African Researchers (Fully Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/25/cora-weiss-fellowship-for-young-women-peacebuilders-2027/",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/iso-lomso-fellowships-2027/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "Call for Applications: Better Futures Fellowship 2027",
-      "org": "Opportunity Desk",
+      "title": "The Leadership & Advocacy for Women in Africa (LAWA) Fellowship Program 2027/2028 for study at Georgetown University, USA (Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-leadership-advocacy-for-women-in-africa-lawa-fellowship-program-2027-2028/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
-      "title": "SparkUp Initiative Fellowship 2027",
-      "org": "Opportunity Desk",
+      "title": "Ghent University Doctoral Scholarships 2027 for Candidates from the Global South to Study in Belgium (Funded)",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/ghent-university-doctoral-scholarships-2027-for-candidates-from-the-global-south/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
-    },
-    {
-      "title": "ANSO-CAS-TWAS/UNESCO PhD Scholarship 2026-2027 (Funded)",
-      "org": "Opportunity Desk",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/24/anso-cas-twas-unesco-phd-scholarship-2026-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
     },
     {
       "title": "The Robertson Foundation for Government (RFG) Global Governance Leadership Lab 2027 for public service professionals (Fully Funded)",
@@ -210,33 +219,6 @@
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-robertson-foundation-for-government-rfg-global-governance-leadership-lab-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Acumen Green RISE East Africa Fellowship 2027 (6-month leadership program) for Green Entrepreneurs (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-acumen-green-rise-east-africa-fellowship-2027-6-month-leadership-program/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The ANSO-CAS-TWAS/UNESCO PhD Scholarship 2027 for students/scholars from developing countries.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-anso-cas-twas-unesco-phd-scholarship-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Tor Community Fellowship 2027 for human rights defenders, journalists, technologists, and researchers (500 USD\u00a0monthly stipend)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-tor-community-fellowship-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
