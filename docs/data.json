@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:21:01.334646+00:00",
+  "generated_at": "2026-11-26T16:04:14.495825+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Friends of Pakistan Fellowship 2027 (Funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "10 Global Scholarship Opportunities Currently Open \u2013 November 25, 2026",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -178,13 +187,31 @@
       "source": "Opportunity Desk"
     },
     {
-      "title": "Acumen Academy Green RISE East Africa Fellowship 2027 (Fully-funded)",
-      "org": "Opportunity Desk",
+      "title": "The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students.",
+      "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Scholarship",
-      "url": "https://opportunitydesk.org/2026/11/25/acumen-academy-green-rise-east-africa-fellowship-2027/",
+      "url": "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/",
       "tag": "Scholarship",
-      "source": "Opportunity Desk"
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Fully-funded",
+      "url": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
+      "title": "The International Agency for Research on Cancer (IARC) Summer School\u00a02027 for \u00a0researchers and health professionals\u00a0(Travel scholarships available to Lyon, France)",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
     },
     {
       "title": "Iso Lomso Fellowships 2027 for Early Career African Researchers (Fully Funded)",
@@ -201,24 +228,6 @@
       "location": "Abroad",
       "type": "Scholarship",
       "url": "https://www.opportunitiesforafricans.com/the-leadership-advocacy-for-women-in-africa-lawa-fellowship-program-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Ghent University Doctoral Scholarships 2027 for Candidates from the Global South to Study in Belgium (Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/ghent-university-doctoral-scholarships-2027-for-candidates-from-the-global-south/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The Robertson Foundation for Government (RFG) Global Governance Leadership Lab 2027 for public service professionals (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-robertson-foundation-for-government-rfg-global-governance-leadership-lab-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
