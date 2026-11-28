@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:52:48.428942+00:00",
+  "generated_at": "2026-11-28T00:53:16.305377+00:00",
   "hackathons": [
     {
       "title": "Kiroween 2026",
@@ -160,6 +160,15 @@
   ],
   "scholarships": [
     {
+      "title": "Queen Elizabeth Commonwealth Scholarships 2027 (Fully-funded)",
+      "org": "Opportunity Desk",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://opportunitydesk.org/2026/11/27/queen-elizabeth-commonwealth-scholarships-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunity Desk"
+    },
+    {
       "title": "Friends of Pakistan Fellowship 2027 (Funded)",
       "org": "Opportunity Desk",
       "location": "Abroad",
@@ -187,47 +196,20 @@
       "source": "Opportunity Desk"
     },
     {
+      "title": "The International Capital Market Association (ICMA) Scholarship Programme 2027 for young professionals.",
+      "org": "Opportunities For Africans",
+      "location": "Abroad",
+      "type": "Scholarship",
+      "url": "https://www.opportunitiesforafricans.com/the-international-capital-market-association-icma-scholarship-programme-2027/",
+      "tag": "Scholarship",
+      "source": "Opportunities For Africans"
+    },
+    {
       "title": "The Queen Elizabeth Commonwealth Scholarships (QECS) 2027/2028 for Master\u2019s degree study in a low or middle-income Commonwealth country. (Fully Funded)",
       "org": "Opportunities For Africans",
       "location": "Abroad",
       "type": "Fully-funded",
       "url": "https://www.opportunitiesforafricans.com/the-queen-elizabeth-commonwealth-scholarships-qecs-2027-2028/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students.",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "The International Agency for Research on Cancer (IARC) Summer School\u00a02027 for \u00a0researchers and health professionals\u00a0(Travel scholarships available to Lyon, France)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Scholarship",
-      "url": "https://www.opportunitiesforafricans.com/the-international-agency-for-research-on-cancer-iarc-summer-school-2027/",
-      "tag": "Scholarship",
-      "source": "Opportunities For Africans"
-    },
-    {
-      "title": "Iso Lomso Fellowships 2027 for Early Career African Researchers (Fully Funded)",
-      "org": "Opportunities For Africans",
-      "location": "Abroad",
-      "type": "Fully-funded",
-      "url": "https://www.opportunitiesforafricans.com/iso-lomso-fellowships-2027/",
       "tag": "Scholarship",
       "source": "Opportunities For Africans"
     },
